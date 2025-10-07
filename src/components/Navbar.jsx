@@ -9,6 +9,11 @@ function Navbar() {
 				<a href="#">
 					kakuji
 				</a>
+				<div>
+					<ul>
+						<li><a href=""></a></li>
+					</ul>r
+				</div>
 
 			</nav>
 
