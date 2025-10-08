@@ -1,23 +1,19 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 function Navbar() {
-
-
 	return (
-		<>
-			<nav class="">
-				<a href="#">
-					kakuji
-				</a>
-				<div>
-					<ul>
-						<li><a href=""></a></li>
-					</ul>r
-				</div>
+		<nav class="">
+			<ul>
+				<li>
+					<Link to="/">Home</Link>
+				</li>
+				<li>
+					<Link to="/kanji">Kanji</Link>
+				</li>
+			</ul>
+		</nav>
 
-			</nav>
-
-		</>
 	);
 }
 
