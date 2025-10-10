@@ -6,9 +6,6 @@ function Navbar() {
 		<nav className="">
 			<ul>
 				<li>
-					<Link to="/">Home</Link>
-				</li>
-				<li>
 					<Link to="/kanji">Kanji</Link>
 				</li>
 			</ul>
