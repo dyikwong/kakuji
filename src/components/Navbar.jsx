@@ -12,6 +12,12 @@ function Navbar() {
 				<div className="collapse navbar-collapse" id="navbarNav">
 					<ul className="navbar-nav">
 						<li className="nav-item">
+							<Link to="/hiragana" className="nav-link">Hiragana</Link>
+						</li>
+						<li className="nav-item">
+							<Link to="/katakana" className="nav-link">Katakana</Link>
+						</li>
+						<li className="nav-item">
 							<Link to="/kanji" className="nav-link">Kanji</Link>
 						</li>
 					</ul>

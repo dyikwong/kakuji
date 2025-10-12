@@ -1,0 +1,13 @@
+import React from 'react'
+import Navbar from './components/Navbar'
+
+function Hiragana() {
+
+	return (
+		<>
+			<h1>Hiragana page</h1>
+		</>
+	);
+}
+
+export default Hiragana;
