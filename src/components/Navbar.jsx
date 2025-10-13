@@ -1,7 +1,16 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import { NavLink } from 'react-router-dom'
 
 function Navbar() {
+
+
+	//Use if using NavLink for custom styling
+
+	function NavLinkStyles(isActive) {
+
+	}
+
 	return (
 		<nav className="navbar navbar-expand-lg bg-body-tertiary">
 			<div className="container-fluid">
@@ -12,13 +21,13 @@ function Navbar() {
 				<div className="collapse navbar-collapse" id="navbarNav">
 					<ul className="navbar-nav">
 						<li className="nav-item">
-							<Link to="/hiragana" className="nav-link">Hiragana</Link>
+							<NavLink to="/hiragana" style={NavLinkStyles} className="nav-link">Hiragana</NavLink>
 						</li>
 						<li className="nav-item">
-							<Link to="/katakana" className="nav-link">Katakana</Link>
+							<NavLink to="/katakana" style={NavLinkStyles} className="nav-link">Katakana</NavLink>
 						</li>
 						<li className="nav-item">
-							<Link to="/kanji" className="nav-link">Kanji</Link>
+							<NavLink to="/kanji" style={NavLinkStyles} className="nav-link">Kanji</NavLink>
 						</li>
 					</ul>
 				</div>
