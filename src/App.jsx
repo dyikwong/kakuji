@@ -1,8 +1,10 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import './App.css'
+import Kanji from './Kanji'
 
 function App() {
+  return (
+    <Kanji />
+  );
 }
 
 export default App
