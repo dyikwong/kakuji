@@ -1,12 +1,12 @@
 import React from 'react'
-import Canvas from './components/Canvas'
+import Quiz from './components/Quiz'
 
 function Kanji() {
 
 	return (
 		<div>
 			<h1>Kanji</h1>
-			<Canvas />
+			<Quiz />
 		</div>
 	);
 }
