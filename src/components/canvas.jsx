@@ -2,24 +2,43 @@ import { useEffect, useRef } from 'react'
 
 
 function Canvas(props) {
-
 	const canvasRef = useRef(null)
-	const draw = (e) => {
-		if (!isDrawing) {
-			return;
-		}
-
-		ctx.lineWidth = lineWidth;
+	useEffect(() => {
+		const canvas = canvasRef.current;
+		const ctx = canvas.getContext('2d');
+		ctx.lineWidth = 5;
 		ctx.lineCap = 'round';
-		ctx.lineTo(e.clientX - canvasOffsetX, e.clientY);
-		ctx.stroke();
-	}
+		let isDrawing = false;
 
+		const draw = (e) => {
+			if (!isDrawing) {
+				return;
+			}
 
+			ctx.lineTo(e.offsetX, e.offsetY);
+			ctx.stroke();
+		}
+		canvas.addEventListener('mousedown', (e) => {
+			isDrawing = true;
+			ctx.beginPath();
+		})
 
+		canvas.addEventListener('mouseup', (e) => {
+			isDrawing = false;
+			ctx.beginPath();
+		})
+
+		canvas.addEventListener('mousemove', draw);
+
+		canvas.addEventListener('mouseleave', (e) => {
+			isDrawing = false;
+		})
+	}, [])
 
 	const styling = {
-		border: '2px solid black'
+		border: '2px solid black',
+		width: '300',
+		height: '200'
 	}
 
 	return (
