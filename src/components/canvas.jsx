@@ -2,7 +2,15 @@ import { useEffect, useRef } from 'react'
 
 
 function Canvas(props) {
-	const canvasRef = useRef(null)
+	const canvasRef = useRef(null);
+
+	if (props.isCleared) {
+		alert("Here");
+		const canvas = canvasRef.current;
+		const ctx = canvas.getContext('2d');
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
+		props.isCleared = false;
+	}
 	useEffect(() => {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
@@ -43,7 +51,7 @@ function Canvas(props) {
 
 	return (
 		<div>
-			<canvas style={styling} ref={canvasRef} {...props} />
+			<canvas style={styling} ref={canvasRef} />
 		</div>
 	);
 }
