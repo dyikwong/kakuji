@@ -3,9 +3,16 @@ import Canvas from './Canvas';
 
 function Quiz(props) {
 	const [canvasCleared, setCanvasCleared] = useState(false);
+	const [submittedWriting, setSubmittedWriting] = useState([]);
+	const [characterListIndex, setCharacterListIndex] = useState(0); // track which character/word
 
 	const clearCanvas = () => {
 		setCanvasCleared(!canvasCleared);
+	};
+
+	const submitWriting = (newWriting) => {
+		setSubmittedWriting((submittedWriting) => [...submittedWriting,])
+		setCharacterListCounter(characterListIndex + 1);
 	};
 
 	return (
@@ -14,7 +21,7 @@ function Quiz(props) {
 			<h2>north</h2>
 			<Canvas />
 			<button onClick={clearCanvas}> Clear</button>
-			<button >Submit</button>
+			<button onClick={submitWriting}>Submit</button>
 		</div>
 	)
 }
