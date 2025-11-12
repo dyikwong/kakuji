@@ -5,14 +5,14 @@ function Quiz(props) {
 	const [canvasCleared, setCanvasCleared] = useState(false);
 
 	const clearCanvas = () => {
-		setCanvasCleared(true)
+		setCanvasCleared(!canvasCleared);
 	};
 
 	return (
 		<div>
 			<h2>ホク、きた</h2>
 			<h2>north</h2>
-			<Canvas isCleared={canvasCleared} />
+			<Canvas />
 			<button onClick={clearCanvas}> Clear</button>
 			<button >Submit</button>
 		</div>

@@ -4,16 +4,10 @@ import { useEffect, useRef } from 'react'
 function Canvas(props) {
 	const canvasRef = useRef(null);
 
-	if (props.isCleared) {
-		alert("Here");
-		const canvas = canvasRef.current;
-		const ctx = canvas.getContext('2d');
-		ctx.clearRect(0, 0, canvas.width, canvas.height);
-		props.isCleared = false;
-	}
 	useEffect(() => {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
+		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.lineWidth = 5;
 		ctx.lineCap = 'round';
 		let isDrawing = false;
@@ -41,7 +35,7 @@ function Canvas(props) {
 		canvas.addEventListener('mouseleave', (e) => {
 			isDrawing = false;
 		})
-	}, [])
+	})
 
 	const styling = {
 		border: '2px solid black',
