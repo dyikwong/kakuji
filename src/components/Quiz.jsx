@@ -11,15 +11,16 @@ function Quiz(props) {
 	};
 
 	const submitWriting = (newWriting) => {
+		alert("here");
 		setSubmittedWriting((submittedWriting) => [...submittedWriting,])
-		setCharacterListCounter(characterListIndex + 1);
+		setCharacterListIndex(characterListIndex + 1);
 	};
 
 	return (
 		<div>
 			<h2>ホク、きた</h2>
 			<h2>north</h2>
-			<Canvas />
+			<Canvas getCanvasWriting={submitWriting} />
 			<button onClick={clearCanvas}> Clear</button>
 			<button onClick={submitWriting}>Submit</button>
 		</div>

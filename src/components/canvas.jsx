@@ -4,6 +4,16 @@ import { useEffect, useRef } from 'react'
 function Canvas(props) {
 	const canvasRef = useRef(null);
 
+	function handleGetWWriting(canvas) {
+		props.getCanvasWriting(canvas.toDataURL('image/png'));
+	}
+
+	useEffect(() => {
+		const canvas = canvasRef.current;
+		const ctx = canvas.getContext('2d');
+		handleGetWWriting(canvas);
+	}, []);
+
 	useEffect(() => {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
