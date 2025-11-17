@@ -1,19 +1,36 @@
 import { useEffect, useRef } from 'react'
-
+import React, { useState } from 'react';
 
 function Canvas(props) {
 	const canvasRef = useRef(null);
+	const [isSubmit, setIsSubmit] = useState(false);
+	const [canvasCleared, setCanvasCleared] = useState(false);
+
+	const clearCanvas = () => {
+		setCanvasCleared(!canvasCleared);
+	};
+
+	const submitWriting = (newWriting) => {
+		setIsSubmit(!isSubmit);
+		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
+		setCharacterListIndex(characterListIndex + 1);
+		console.log(newWriting);
+	};
 
 	function handleGetWWriting(canvas) {
-		props.getCanvasWriting(canvas.toDataURL('image/png'));
+		props.getCanvasWriting(1);
 	}
 
-	useEffect(() => {
+	// Sends the current canvas writing to Quiz component; runs once
+	if (props.submitState) {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
-		handleGetWWriting(canvas);
-	}, []);
+		useEffect(() => {
+			handleGetWWriting(1);
+		});
+	}
 
+	// Handle 
 	useEffect(() => {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
@@ -56,6 +73,9 @@ function Canvas(props) {
 	return (
 		<div>
 			<canvas style={styling} ref={canvasRef} />
+			<br />
+			<button onClick={clearCanvas}> Clear</button>
+			<button onClick={submitWriting}>Submit</button>
 		</div>
 	);
 }
