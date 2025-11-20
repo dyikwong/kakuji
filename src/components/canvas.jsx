@@ -1,6 +1,5 @@
 import { useEffect, useRef } from 'react'
 import React, { useState } from 'react';
-import React, { useState } from 'react';
 
 function Canvas(props) {
 	const canvasRef = useRef(null);
