@@ -11,31 +11,31 @@ function Start() {
 	return (
 		<div>
 			<div>
-				<input class="form-check-input" type="checkbox" value="" id="n1-check">
-					<label class="form-check-label" for="n1-check">
-						N1
-					</label>
-				</input>
-				<input class="form-check-input" type="checkbox" value="" id="n2-check">
-					<label class="form-check-label" for="n2-check">
-						N2
-					</label>
-				</input>
-				<input class="form-check-input" type="checkbox" value="" id="n3-check">
-					<label class="form-check-label" for="n3-check">
-						N3
-					</label>
-				</input>
-				<input class="form-check-input" type="checkbox" value="" id="n4-check">
-					<label class="form-check-label" for="n4-check">
-						N4
-					</label>
-				</input>
-				<input class="form-check-input" type="checkbox" value="" id="n5-check">
-					<label class="form-check-label" for="n5-check">
-						N5
-					</label>
-				</input>
+				<input className="form-check-input" type="checkbox" value="" id="n1-check" />
+				<label className="form-check-label" htmlFor="n1-check">
+					N1
+				</label>
+				<br />
+				<input className="form-check-input" type="checkbox" value="" id="n2-check" />
+				<label className="form-check-label" htmlFor="n2-check">
+					N2
+				</label>
+				<br />
+				<input className="form-check-input" type="checkbox" value="" id="n3-check" />
+				<label className="form-check-label" htmlFor="n3-check">
+					N3
+				</label>
+				<br />
+				<input className="form-check-input" type="checkbox" value="" id="n4-check" />
+				<label className="form-check-label" htmlFor="n4-check">
+					N4
+				</label>
+				<br />
+				<input className="form-check-input" type="checkbox" value="" id="n5-check" />
+				<label className="form-check-label" htmlFor="n5-check">
+					N5
+				</label>
+				<br />
 			</div>
 
 

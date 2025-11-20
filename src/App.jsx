@@ -1,9 +1,14 @@
 import { useState } from 'react'
 import Kanji from './Kanji'
+import Start from './components/Start';
 
 function App() {
   return (
-    <Kanji />
+    <div>
+      <Start />
+      <Kanji />
+    </div>
+
   );
 }
 
