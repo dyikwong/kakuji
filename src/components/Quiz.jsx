@@ -10,7 +10,7 @@ function Quiz(props) {
 		//setIsSubmit(!isSubmit);
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
 		//setCharacterListIndex(characterListIndex + 1);
-		console.log(newWriting);
+		console.log(submittedWriting);
 	};
 
 	return (

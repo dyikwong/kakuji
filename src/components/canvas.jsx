@@ -9,22 +9,11 @@ function Canvas(props) {
 		setCanvasCleared(!canvasCleared);
 	};
 
-	const handleSubmit = () => {
 
-	};
-
+	// onClick function for Submit button
 	function handleGetWWriting(canvas) {
 		props.getWriting(1);
 	}
-
-	// Sends the current canvas writing to Quiz component; runs once
-	/*if (props.submitState) {
-		const canvas = canvasRef.current;
-		const ctx = canvas.getContext('2d');
-		useEffect(() => {
-			handleGetWWriting(1);
-		});
-	} */
 
 	// Handle 
 	useEffect(() => {
