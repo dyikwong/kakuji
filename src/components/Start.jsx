@@ -37,10 +37,17 @@ function Start() {
 				</label>
 				<br />
 			</div>
+			<button type="button" className="btn btn-primary" id="clear-button">Clear</button>
+			<button type="button" className="btn btn-primary" id="start-button">Start</button>
+			<br />
 
+			<div id="options-buttons" style={{ display: "inline" }}>
+				<label htmlFor="time-length" className="form-label">Length</label>
+				<label htmlFor="time-length" className="form-label" id="slider-value">1</label>
+				<input type="range" className="form-range" defaultValue="1" min="0.5" max="5" step="0.5" id="time-length" />
+			</div>
 
-
-		</div>
+		</div >
 	);
 }
 
