@@ -2,11 +2,15 @@ import React from "react";
 import { useState } from "react";
 
 function Start() {
+	const [timeLimit, setTimeLimit] = useState(1);
 	// 5 checkboxes for each JLPT level (input validation if empty)
 	// Slider for amount of time 
 
 	// options for color and line thickness? (show preview)
 
+	function handleTimeChange(e) {
+		setTimeLimit(e.target.value);
+	}
 
 	return (
 		<div>
@@ -42,9 +46,8 @@ function Start() {
 			<br />
 
 			<div id="options-buttons" style={{ display: "inline" }}>
-				<label htmlFor="time-length" className="form-label">Length</label>
-				<label htmlFor="time-length" className="form-label" id="slider-value">1</label>
-				<input type="range" className="form-range" defaultValue="1" min="0.5" max="5" step="0.5" id="time-length" />
+				<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
+				<input type="range" className="form-range" defaultValue={{ timeLimit }} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
 			</div>
 
 		</div >
