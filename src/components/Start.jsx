@@ -1,5 +1,6 @@
 import React from "react";
 import { useState } from "react";
+import { Link, useNavigate } from 'react-router-dom';
 
 function Start() {
 	const [timeLimit, setTimeLimit] = useState(1);
@@ -14,6 +15,8 @@ function Start() {
 	// Slider for amount of time 
 
 	// options for color and line thickness? (show preview)
+
+	const nav = useNavigate();
 
 	function handleTimeChange(e) {
 		setTimeLimit(e.target.value);
@@ -31,6 +34,10 @@ function Start() {
 		);
 	}
 
+	function moveToQuiz() {
+		nav('/kanji', { state: { time: timeLimit, content: checkBoxes } });
+	}
+
 	return (
 		<div>
 			<div>
@@ -46,7 +53,9 @@ function Start() {
 				))}
 			</div>
 			<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
-			<button type="button" className="btn btn-primary" id="start-button">Start</button>
+
+			<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz}>Start</button>
+
 			<br />
 
 			<div id="options-buttons" style={{ display: "inline" }}>
