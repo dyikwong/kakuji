@@ -3,18 +3,14 @@ import Canvas from './Canvas';
 import { Link, useLocation } from 'react-router-dom';
 
 function Quiz(props) {
-	const [submittedWriting, setSubmittedWriting] = useState([]);
-	const [characterListIndex, setCharacterListIndex] = useState(0); // track which character/word
-
-
 	var characterList = {
-		1: {
+		0: {
 			'kanji': '日',
 			'onyomi': 'ニチ, ジツ',
 			'kunyomi': 'ひ, -び, -か',
 			'meaning': 'day, sun, Japan, counter for days'
 		},
-		2: {
+		1: {
 			'kanji': '一',
 			'onyomi': 'イチ',
 			'kunyomi': 'ひと（つ）',
@@ -22,14 +18,18 @@ function Quiz(props) {
 		},
 	};
 
+	const [submittedWriting, setSubmittedWriting] = useState([]);
+	const [characterListIndex, setCharacterListIndex] = useState(Math.floor(Math.random() * Object.keys(characterList).length)); // track which character/word
+
 	const location = useLocation();
 	const time = location.state.time;
 
-	const index = Math.floor(Math.random() * Object.keys(characterList).length);
 
 	const submitWriting = (newWriting) => {
 		//setIsSubmit(!isSubmit);
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
+		setCharacterListIndex(Math.floor(Math.random() * Object.keys(characterList).length));
+		console.log(characterListIndex);
 		//setCharacterListIndex(characterListIndex + 1);
 		console.log(submittedWriting);
 	};
@@ -39,9 +39,10 @@ function Quiz(props) {
 			<Link to="/..">
 				<button>Quit</button>
 			</Link>
-			<h2>{characterList[index]['onyomi']}</h2>
-			<h2>{characterList[index]['kunyomi']}</h2>
-			<h2>{characterList[index]['meaning']}</h2>
+			<h2>{characterListIndex}</h2>
+			<h2>{characterList[characterListIndex]['onyomi']}</h2>
+			<h2>{characterList[characterListIndex]['kunyomi']}</h2>
+			<h2>{characterList[characterListIndex]['meaning']}</h2>
 			<Canvas getWriting={submitWriting} />
 		</div>
 	)
