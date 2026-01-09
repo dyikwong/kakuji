@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Canvas from './Canvas';
+import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
 
 function Quiz(props) {
@@ -24,13 +25,11 @@ function Quiz(props) {
 	const location = useLocation();
 	const time = location.state.time;
 
-
 	const submitWriting = (newWriting) => {
 		//setIsSubmit(!isSubmit);
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
 		setCharacterListIndex(Math.floor(Math.random() * Object.keys(characterList).length));
 		console.log(characterListIndex);
-		//setCharacterListIndex(characterListIndex + 1);
 		console.log(submittedWriting);
 	};
 
@@ -39,6 +38,7 @@ function Quiz(props) {
 			<Link to="/..">
 				<button>Quit</button>
 			</Link>
+			<Timer />
 			<h2>{characterListIndex}</h2>
 			<h2>{characterList[characterListIndex]['onyomi']}</h2>
 			<h2>{characterList[characterListIndex]['kunyomi']}</h2>
