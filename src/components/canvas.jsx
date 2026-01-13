@@ -62,8 +62,8 @@ function Canvas(props) {
 		<div>
 			<canvas style={styling} ref={canvasRef} />
 			<br />
-			<button onClick={clearCanvas}> Clear</button>
-			<button onClick={handleGetWWriting}>Submit</button>
+			<button onClick={clearCanvas} class="btn btn-danger"> Clear</button>
+			<button onClick={handleGetWWriting} class="btn btn-success">Submit</button>
 		</div>
 	);
 }

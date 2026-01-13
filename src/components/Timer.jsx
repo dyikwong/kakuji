@@ -1,8 +1,7 @@
 import { useEffect, useState } from 'react';
 
-function Timer() {
-	const [timeRemaining, updateTimeRemaining] = useState(60);
-	//let timer = setInterval(countdown, 1000);
+function Timer(props) {
+	const [timeRemaining, updateTimeRemaining] = useState(props.time * 60);
 
 	useEffect(() => {
 		if (timeRemaining == 0)
@@ -13,10 +12,11 @@ function Timer() {
 		}, 1000);
 
 		//return () => clearInterval(intervalID);
+		clearInterval(intervalID);
 	}, [timeRemaining]);
 
 	return (
-		<h1>{timeRemaining}</h1>
+		<h1>{Math.floor(timeRemaining / 60)}:{timeRemaining - ((Math.floor(timeRemaining / 60) * 60))}</h1>
 	)
 
 }

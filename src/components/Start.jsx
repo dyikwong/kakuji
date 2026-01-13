@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 import { Link, useNavigate } from 'react-router-dom';
+import './Start.css';
 
 function Start() {
 	const [timeLimit, setTimeLimit] = useState(1);
@@ -39,7 +40,7 @@ function Start() {
 	}
 
 	return (
-		<div>
+		<div className="start-container">
 			<div>
 				{checkBoxes.map((box) => (
 					<div key={box.title}>
@@ -54,11 +55,11 @@ function Start() {
 			</div>
 			<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
 
-			<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz}>Start</button>
+			<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
 
 			<br />
 
-			<div id="options-buttons" style={{ display: "inline" }}>
+			<div id="options-buttons">
 				<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
 				<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
 			</div>

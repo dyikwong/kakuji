@@ -36,9 +36,9 @@ function Quiz(props) {
 	return (
 		<div>
 			<Link to="/..">
-				<button>Quit</button>
+				<button class="btn btn-secondary">Quit</button>
 			</Link>
-			<Timer />
+			<Timer time={time} />
 			<h2>{characterListIndex}</h2>
 			<h2>{characterList[characterListIndex]['onyomi']}</h2>
 			<h2>{characterList[characterListIndex]['kunyomi']}</h2>
