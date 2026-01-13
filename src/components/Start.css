@@ -1,1 +1,26 @@
-.start-container div {}
+.start-container {
+	margin-top: 15%;
+	margin-left: 15%;
+	margin-right: 15%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 5px solid green;
+}
+
+.inside-start-container {
+	text-align: left;
+	width: 90%;
+}
+
+.level-checkbox {
+	margin-bottom: 5px;
+}
+
+.clear-button {
+	width: 250;
+}
+
+.submit-button {
+	margin-left: auto;
+}

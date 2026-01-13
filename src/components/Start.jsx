@@ -41,29 +41,27 @@ function Start() {
 
 	return (
 		<div className="start-container">
-			<div>
-				{checkBoxes.map((box) => (
-					<div key={box.title}>
-						<input
-							type="checkbox"
-							checked={box.checked}
-							onChange={() => handleCheckboxChange(box.title)}
-						/>
-						<label>{box.title}</label>
-					</div>
-				))}
+			<div className="inside-start-container">
+				<h1>Start</h1>
+				<div>
+					{checkBoxes.map((box) => (
+						<div key={box.title} class="level-checkbox">
+							<input
+								type="checkbox"
+								checked={box.checked}
+								onChange={() => handleCheckboxChange(box.title)}
+							/>
+							<label>{box.title}</label>
+						</div>
+					))}
+				</div>
+				<div id="options-buttons">
+					<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
+					<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
+				</div>
+				<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
+				<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
 			</div>
-			<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
-
-			<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
-
-			<br />
-
-			<div id="options-buttons">
-				<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
-				<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
-			</div>
-
 		</div >
 	);
 }
