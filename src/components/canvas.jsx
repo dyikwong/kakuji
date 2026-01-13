@@ -22,6 +22,8 @@ function Canvas(props) {
 	useEffect(() => {
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
+		canvas.width = 400;
+		canvas.height = 400;
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.lineWidth = 5;
 		ctx.lineCap = 'round';
@@ -53,9 +55,7 @@ function Canvas(props) {
 	})
 
 	const styling = {
-		border: '2px solid black',
-		width: '300',
-		height: '200'
+		border: '2px solid black'
 	}
 
 	return (
