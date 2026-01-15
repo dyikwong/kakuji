@@ -39,6 +39,9 @@ function Start() {
 		nav('/kanji', { state: { time: timeLimit, content: checkBoxes } });
 	}
 
+	const [canvasSize, setCanvasSize] = useState(1); // pass this variable to child
+
+
 	return (
 		<div className="start-container">
 			<div className="inside-start-container">
@@ -55,10 +58,36 @@ function Start() {
 						</div>
 					))}
 				</div>
+				<br />
 				<div id="options-buttons">
 					<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
 					<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
 				</div>
+				<br />
+				<div>
+					<div class="form-check">
+						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasSmall" />
+						<label class="form-check-label" for="canvasSmall">
+							Small
+						</label>
+					</div>
+					<div class="form-check">
+						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasMedium" checked />
+						<label class="form-check-label" for="canvasMedium">
+							Medium
+						</label>
+					</div>
+					<div class="form-check">
+						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" checked />
+						<label class="form-check-label" for="canvasLarge">
+							Large
+						</label>
+					</div>
+				</div><canvas style={{
+					width: 300, height: 300, border: 5
+				}}>
+					canvas here with the specified size based on value from radio button
+				</canvas><button>clear button underneath</button>
 				<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
 				<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
 			</div>
