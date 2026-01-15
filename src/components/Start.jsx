@@ -78,7 +78,7 @@ function Start() {
 						</label>
 					</div>
 					<div class="form-check">
-						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" checked />
+						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" />
 						<label class="form-check-label" for="canvasLarge">
 							Large
 						</label>
