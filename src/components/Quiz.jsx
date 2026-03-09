@@ -4,6 +4,9 @@ import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
 
 function Quiz(props) {
+	const checkedList = props.content;
+	const timer = props.time;
+
 	var characterList = {
 		0: {
 			'kanji': '日',
@@ -22,9 +25,6 @@ function Quiz(props) {
 	const [submittedWriting, setSubmittedWriting] = useState([]);
 	const [characterListIndex, setCharacterListIndex] = useState(Math.floor(Math.random() * Object.keys(characterList).length)); // track which character/word
 
-	const location = useLocation();
-	const time = location.state.time;
-
 	const submitWriting = (newWriting) => {
 		//setIsSubmit(!isSubmit);
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
@@ -36,9 +36,9 @@ function Quiz(props) {
 	return (
 		<div>
 			<Link to="/..">
-				<button class="btn btn-secondary">Quit</button>
+				<button className="btn btn-secondary">Quit</button>
 			</Link>
-			<Timer time={time} />
+			<Timer time={timer} />
 			<h2>{characterListIndex}</h2>
 			<h2>{characterList[characterListIndex]['onyomi']}</h2>
 			<h2>{characterList[characterListIndex]['kunyomi']}</h2>

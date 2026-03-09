@@ -36,7 +36,8 @@ function Start() {
 	}
 
 	function moveToQuiz() {
-		nav('/kanji', { state: { time: timeLimit, content: checkBoxes } });
+		console.log(checkBoxes);
+		nav('/kanji', { state: { time: timeLimit, checked: checkBoxes } });
 	}
 
 	const [canvasSize, setCanvasSize] = useState(1); // pass this variable to child
@@ -48,13 +49,15 @@ function Start() {
 				<h1>Start</h1>
 				<div>
 					{checkBoxes.map((box) => (
-						<div key={box.title} class="level-checkbox">
-							<input
-								type="checkbox"
-								checked={box.checked}
-								onChange={() => handleCheckboxChange(box.title)}
-							/>
-							<label>{box.title}</label>
+						<div key={box.title} className="level-checkbox">
+							<label>
+								<input
+									type="checkbox"
+									checked={box.checked}
+									onChange={() => handleCheckboxChange(box.title)}
+								/>
+								{box.title}
+							</label>
 						</div>
 					))}
 				</div>
@@ -65,21 +68,21 @@ function Start() {
 				</div>
 				<br />
 				<div>
-					<div class="form-check">
-						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasSmall" />
-						<label class="form-check-label" for="canvasSmall">
+					<div className="form-check">
+						<label >
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasSmall" />
 							Small
 						</label>
 					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasMedium" checked />
-						<label class="form-check-label" for="canvasMedium">
+					<div className="form-check">
+						<label>
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasMedium" />
 							Medium
 						</label>
 					</div>
-					<div class="form-check">
-						<input class="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" />
-						<label class="form-check-label" for="canvasLarge">
+					<div className="form-check">
+						<label>
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" />
 							Large
 						</label>
 					</div>
