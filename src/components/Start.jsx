@@ -13,7 +13,6 @@ function Start() {
 		{ title: 'N5', checked: false },
 	]);
 	// 5 checkboxes for each JLPT level (input validation if empty)
-	// Slider for amount of time 
 
 	// options for color and line thickness? (show preview)
 
@@ -36,6 +35,10 @@ function Start() {
 	}
 
 	function moveToQuiz() {
+		if (checkBoxes.every((box) => !box.checked)) {
+			alert('Please select at least one JLPT level.');
+			return;
+		}
 		console.log(checkBoxes);
 		nav('/kanji', { state: { time: timeLimit, checked: checkBoxes } });
 	}
@@ -48,6 +51,7 @@ function Start() {
 			<div className="inside-start-container">
 				<h1>Start</h1>
 				<div>
+					<h3>Select JLPT Levels:</h3>
 					{checkBoxes.map((box) => (
 						<div key={box.title} className="level-checkbox">
 							<label>
