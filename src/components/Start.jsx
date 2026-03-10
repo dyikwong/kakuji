@@ -29,8 +29,11 @@ function Start() {
 		}
 	}
 
-	function clearOptions() {
+	function resetOptions() {
 		setCheckBoxes(checkBoxes.map((item) => ({ ...item, checked: false })));
+		setTimeLimit(1);
+		document.getElementById('slider-value').innerHTML = '1 minute';
+		document.getElementById('time-length').value = 1;
 	}
 
 	function handleCheckboxChange(title) {
@@ -103,7 +106,7 @@ function Start() {
 				}}>
 					canvas here with the specified size based on value from radio button
 				</canvas><button>clear button underneath</button>
-				<button type="button" className="btn btn-primary" id="clear-button" onClick={clearOptions}>Clear</button>
+				<button type="button" className="btn btn-primary" id="clear-button" onClick={resetOptions}>Reset</button>
 				<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
 			</div>
 		</div >
