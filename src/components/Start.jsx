@@ -20,6 +20,13 @@ function Start() {
 
 	function handleTimeChange(e) {
 		setTimeLimit(e.target.value);
+		if (e.target.value == 0.5) {
+			document.getElementById('slider-value').innerHTML = '30 seconds';
+		} else if (e.target.value == 1) {
+			document.getElementById('slider-value').innerHTML = '1 minute';
+		} else {
+			document.getElementById('slider-value').innerHTML = e.target.value + ' minutes';
+		}
 	}
 
 	function clearOptions() {
@@ -66,8 +73,9 @@ function Start() {
 					))}
 				</div>
 				<br />
+				<h3>Time:</h3>
 				<div id="options-buttons">
-					<label htmlFor="time-length" className="form-label" id="slider-value">{timeLimit}</label>
+					<label htmlFor="time-length" className="form-label" id="slider-value">1 minute</label>
 					<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
 				</div>
 				<br />
