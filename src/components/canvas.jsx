@@ -14,8 +14,8 @@ function Canvas(props) {
 
 
 	// onClick function for Submit button
-	function handleGetWWriting(canvas) {
-		props.getWriting(1);
+	function handleGetWWriting() {
+		props.getWriting(canvasRef.current.toDataURL());
 	}
 
 	// Handle 
