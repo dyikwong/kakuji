@@ -17,10 +17,14 @@
 	margin-bottom: 5px;
 }
 
-.clear-button {
-	width: 250px;
+#reset-button {}
+
+#start-button {
+	color: white;
 }
 
-.submit-button {
-	margin-left: auto;
+.options-buttons {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10px;
 }

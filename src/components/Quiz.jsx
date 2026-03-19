@@ -9,6 +9,8 @@ import n3Data from '../data/n3-kanji.json';
 import n2Data from '../data/n2-kanji.json';
 import n1Data from '../data/n1-kanji.json';
 
+import './Quiz.css';
+
 function Quiz(props) {
 	const checkedList = props.content;
 	const timer = props.time;
@@ -64,12 +66,15 @@ function Quiz(props) {
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
 			<Timer time={timer} />
-			<h2>level: {quizListNames[listIndex]}</h2>
-			<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi']}</h2>
-			<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi']}</h2>
-			<h2>meaning: {quizList[listIndex][characterListIndex]['meaning']}</h2>
-			<Canvas getWriting={submitWriting} />
+			<div className='quiz-div'>
+				<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi']}</h2>
+				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi']}</h2>
+				<h2>definition: {quizList[listIndex][characterListIndex]['meaning']}</h2>
+				<h2>level: {quizListNames[listIndex]}</h2>
+				<Canvas getWriting={submitWriting} />
+			</div>
 			<img src={submittedWriting[submittedWriting.length - 1]} alt="Submitted writing" />
+			<h2>Correct: {usedCharacters.length}</h2>
 		</div>
 	)
 }

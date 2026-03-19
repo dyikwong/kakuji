@@ -1,0 +1,14 @@
+.canvas-btns {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin-top: 10px;
+}
+
+#clear-button {
+	width: 50%;
+}
+
+#submit-button {
+	width: 50%;
+}

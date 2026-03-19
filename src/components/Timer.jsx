@@ -16,7 +16,7 @@ function Timer(props) {
 	}, [timeRemaining]);
 
 	return (
-		<h1>{Math.floor(timeRemaining / 60)}:{timeRemaining - ((Math.floor(timeRemaining / 60) * 60))}</h1>
+		<h1 style={{ float: "right" }}> {Math.floor(timeRemaining / 60)}: {timeRemaining - ((Math.floor(timeRemaining / 60) * 60))}</h1 >
 	)
 
 }

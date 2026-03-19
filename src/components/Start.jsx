@@ -55,11 +55,18 @@ function Start() {
 
 	const [canvasSize, setCanvasSize] = useState(1); // pass this variable to child
 
+	/* <canvas style={{
+					width: 300, height: 300, border: 5
+				}}>
+					canvas here with the specified size based on value from radio button
+				</canvas>
+
+	*/
 
 	return (
 		<div className="start-container">
 			<div className="inside-start-container">
-				<h1>Start</h1>
+				<h1>Options</h1>
 				<div>
 					<h3>Select JLPT Levels:</h3>
 					{checkBoxes.map((box) => (
@@ -101,13 +108,13 @@ function Start() {
 							Large
 						</label>
 					</div>
-				</div><canvas style={{
-					width: 300, height: 300, border: 5
-				}}>
-					canvas here with the specified size based on value from radio button
-				</canvas><button>clear button underneath</button>
-				<button type="button" className="btn btn-primary" id="clear-button" onClick={resetOptions}>Reset</button>
-				<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
+				</div>
+				<br />
+				<div className="options-buttons">
+					<button type="button" className="btn btn-secondary" id="reset-button" onClick={resetOptions}>Reset</button>
+					<button type="button" className="btn btn-primary" id="start-button" onClick={moveToQuiz} >Start</button>
+				</div>
+
 			</div>
 		</div >
 	);

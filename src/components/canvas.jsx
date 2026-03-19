@@ -1,6 +1,8 @@
 import { useEffect, useRef } from 'react'
 import React, { useState } from 'react';
 
+import './Canvas.css';
+
 function Canvas(props) {
 	const canvasRef = useRef(null);
 	const [canvasCleared, setCanvasCleared] = useState(false);
@@ -62,8 +64,10 @@ function Canvas(props) {
 		<div>
 			<canvas style={styling} ref={canvasRef} />
 			<br />
-			<button onClick={clearCanvas} className="btn btn-danger"> Clear</button>
-			<button onClick={handleGetWWriting} className="btn btn-success">Submit</button>
+			<div className="canvas-btns">
+				<button onClick={clearCanvas} className="btn btn-danger" id='clear-button'> Clear</button>
+				<button onClick={handleGetWWriting} className="btn btn-success" id='submit-button'>Submit</button>
+			</div>
 		</div>
 	);
 }
