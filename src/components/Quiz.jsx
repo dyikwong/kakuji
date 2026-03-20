@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useRef } from 'react';
 import Canvas from './Canvas';
 import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
@@ -17,7 +17,6 @@ function Quiz(props) {
 
 	var quizList = [];
 	var quizListNames = [];
-	var usedCharacters = [];
 	var usedIndexes = {};
 
 	// Generate the quiz list based on the checked checkboxes from the Start component
@@ -49,16 +48,27 @@ function Quiz(props) {
 	const [listIndex, setListIndex] = useState(Math.floor(Math.random() * Object.keys(quizList).length));
 	var characterListIndex = Math.floor(Math.random() * Object.keys(quizList[listIndex]).length);
 
+	// Preserve values of how many characters have been submitted so far and which ones have been used
+	var usedCharacters = useRef({});
+	var countUsedCharacter = useRef(0);
+
 	// When the user submits a writing, add it to the list of submitted writings and generate a new character to write
 	const submitWriting = (newWriting) => {
+		usedCharacters.current[countUsedCharacter.current] = {
+			level: quizListNames[listIndex],
+			character: quizList[listIndex][characterListIndex]['character'],
+			onyomi: quizList[listIndex][characterListIndex]['onyomi'],
+			kunyomi: quizList[listIndex][characterListIndex]['kunyomi'],
+			meaning: quizList[listIndex][characterListIndex]['meaning']
+		};
+		console.log(usedCharacters);
+		countUsedCharacter.current += 1;
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
 		setListIndex(Math.floor(Math.random() * Object.keys(quizList).length));
 		characterListIndex = Math.floor(Math.random() * Object.keys(quizList[listIndex]).length);
-		usedCharacters.push(quizList[listIndex][characterListIndex]);
-		console.log(submittedWriting);
-	};
 
-	var listType = '';
+	}
+
 
 	return (
 		<div>

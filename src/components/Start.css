@@ -5,7 +5,7 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border: 5px solid green;
+	border: 5px solid black;
 }
 
 .inside-start-container {
@@ -27,4 +27,5 @@
 	display: flex;
 	justify-content: space-between;
 	margin-top: 10px;
+	margin-bottom: 10px;
 }

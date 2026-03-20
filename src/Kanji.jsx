@@ -7,7 +7,7 @@ function Kanji() {
 	const { time, checked } = location.state || {};
 	return (
 		<div>
-			<h1 style={{ float: "center" }}>Kanji</h1>
+			<h1 style={{ textAlign: "center" }}>Kanji</h1>
 			<Quiz time={time} content={checked} />
 		</div>
 	);
