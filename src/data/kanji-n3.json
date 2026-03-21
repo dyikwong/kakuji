@@ -1,0 +1,5985 @@
+{
+    "0": {
+        "onyomi": [
+            "さい"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Genius",
+            "Years Old",
+            "Cubic Shaku"
+        ]
+    },
+    "1": {
+        "onyomi": [
+            "おう",
+            "-のう"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "King",
+            "Rule",
+            "Magnate"
+        ]
+    },
+    "2": {
+        "onyomi": [
+            "せき",
+            "しゃく",
+            "こく"
+        ],
+        "kunyomi": [
+            "いし"
+        ],
+        "meaning": [
+            "Stone"
+        ]
+    },
+    "3": {
+        "onyomi": [
+            "ない",
+            "だい"
+        ],
+        "kunyomi": [
+            "うち"
+        ],
+        "meaning": [
+            "Inside",
+            "Within",
+            "Between",
+            "Among",
+            "House",
+            "Home"
+        ]
+    },
+    "4": {
+        "onyomi": [
+            "たい",
+            "た"
+        ],
+        "kunyomi": [
+            "ふと.い",
+            "ふと.る"
+        ],
+        "meaning": [
+            "Plump",
+            "Thick",
+            "Big Around"
+        ]
+    },
+    "5": {
+        "onyomi": [
+            "いん"
+        ],
+        "kunyomi": [
+            "ひ.く",
+            "ひ.き",
+            "ひ.き-",
+            "-び.き",
+            "ひ.ける"
+        ],
+        "meaning": [
+            "Pull",
+            "Tug",
+            "Jerk",
+            "Admit",
+            "Install",
+            "Quote",
+            "Refer To"
+        ]
+    },
+    "6": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [
+            "いち"
+        ],
+        "meaning": [
+            "Market",
+            "City",
+            "Town"
+        ]
+    },
+    "7": {
+        "onyomi": [
+            "た"
+        ],
+        "kunyomi": [
+            "ほか"
+        ],
+        "meaning": [
+            "Other",
+            "Another",
+            "The Others"
+        ]
+    },
+    "8": {
+        "onyomi": [
+            "ごう"
+        ],
+        "kunyomi": [
+            "さけ.ぶ",
+            "よびな"
+        ],
+        "meaning": [
+            "Nickname",
+            "Number",
+            "Item",
+            "Title",
+            "Pseudonym",
+            "Name",
+            "Call"
+        ]
+    },
+    "9": {
+        "onyomi": [
+            "へい",
+            "びょう",
+            "ひょう"
+        ],
+        "kunyomi": [
+            "たい.ら",
+            "-だいら",
+            "ひら",
+            "ひら-"
+        ],
+        "meaning": [
+            "Even",
+            "Flat",
+            "Peace"
+        ]
+    },
+    "10": {
+        "onyomi": [
+            "だ",
+            "だあす"
+        ],
+        "kunyomi": [
+            "う.つ",
+            "う.ち-",
+            "ぶ.つ"
+        ],
+        "meaning": [
+            "Strike",
+            "Hit",
+            "Knock",
+            "Pound",
+            "Dozen"
+        ]
+    },
+    "11": {
+        "onyomi": [
+            "しん"
+        ],
+        "kunyomi": [
+            "もう.す",
+            "もう.し-",
+            "さる"
+        ],
+        "meaning": [
+            "Have The Honor To",
+            "Sign Of The Monkey",
+            "3-5pm",
+            "Ninth Sign Of Chinese Zodiac"
+        ]
+    },
+    "12": {
+        "onyomi": [
+            "れい",
+            "らい"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Salute",
+            "Bow",
+            "Ceremony",
+            "Thanks",
+            "Remuneration"
+        ]
+    },
+    "13": {
+        "onyomi": [
+            "じ"
+        ],
+        "kunyomi": [
+            "みみ"
+        ],
+        "meaning": [
+            "Ear"
+        ]
+    },
+    "14": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "まじ.わる",
+            "まじ.える",
+            "ま.じる",
+            "まじ.る",
+            "ま.ざる",
+            "ま.ぜる",
+            "-か.う",
+            "か.わす",
+            "かわ.す",
+            "こもごも"
+        ],
+        "meaning": [
+            "Mingle",
+            "Mixing",
+            "Association",
+            "Coming & Going"
+        ]
+    },
+    "15": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "ひか.る",
+            "ひかり"
+        ],
+        "meaning": [
+            "Ray",
+            "Light"
+        ]
+    },
+    "16": {
+        "onyomi": [
+            "かい",
+            "え"
+        ],
+        "kunyomi": [
+            "まわ.る",
+            "-まわ.る",
+            "-まわ.り",
+            "まわ.す",
+            "-まわ.す",
+            "まわ.し-",
+            "-まわ.し",
+            "もとお.る",
+            "か.える"
+        ],
+        "meaning": [
+            "-times",
+            "Round",
+            "Game",
+            "Revolve",
+            "Counter For Occurrences"
+        ]
+    },
+    "17": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "あ.たる",
+            "あ.たり",
+            "あ.てる",
+            "あ.て",
+            "まさ.に",
+            "まさ.にべし"
+        ],
+        "meaning": [
+            "Hit",
+            "Right",
+            "Appropriate",
+            "Himself"
+        ]
+    },
+    "18": {
+        "onyomi": [
+            "べい",
+            "まい",
+            "めえとる"
+        ],
+        "kunyomi": [
+            "こめ",
+            "よね"
+        ],
+        "meaning": [
+            "Rice",
+            "Usa",
+            "Metre"
+        ]
+    },
+    "19": {
+        "onyomi": [
+            "せい",
+            "しょう"
+        ],
+        "kunyomi": [
+            "こえ",
+            "こわ-"
+        ],
+        "meaning": [
+            "Voice"
+        ]
+    },
+    "20": {
+        "onyomi": [
+            "けい",
+            "ぎょう"
+        ],
+        "kunyomi": [
+            "かた",
+            "-がた",
+            "かたち",
+            "なり"
+        ],
+        "meaning": [
+            "Shape",
+            "Form",
+            "Style"
+        ]
+    },
+    "21": {
+        "onyomi": [
+            "そう"
+        ],
+        "kunyomi": [
+            "くさ",
+            "くさ-",
+            "-ぐさ"
+        ],
+        "meaning": [
+            "Grass",
+            "Weeds",
+            "Herbs",
+            "Pasture",
+            "Write",
+            "Draft"
+        ]
+    },
+    "22": {
+        "onyomi": [
+            "か",
+            "け"
+        ],
+        "kunyomi": [
+            "ば.ける",
+            "ば.かす",
+            "ふ.ける",
+            "け.する"
+        ],
+        "meaning": [
+            "Change",
+            "Take The Form Of",
+            "Influence",
+            "Enchant",
+            "Delude",
+            "-ization"
+        ]
+    },
+    "23": {
+        "onyomi": [
+            "りょう"
+        ],
+        "kunyomi": [
+            "てる",
+            "ふたつ"
+        ],
+        "meaning": [
+            "Both",
+            "Old Japanese Coin",
+            "Counter For Carriages (e.g., In A Train)",
+            "Two"
+        ]
+    },
+    "24": {
+        "onyomi": [
+            "ぜん"
+        ],
+        "kunyomi": [
+            "まった.く",
+            "すべ.て"
+        ],
+        "meaning": [
+            "Whole",
+            "Entire",
+            "All",
+            "Complete",
+            "Fulfill"
+        ]
+    },
+    "25": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "む.く",
+            "む.い",
+            "-む.き",
+            "む.ける",
+            "-む.け",
+            "む.かう",
+            "む.かい",
+            "む.こう",
+            "む.こう-",
+            "むこ",
+            "むか.い"
+        ],
+        "meaning": [
+            "Yonder",
+            "Facing",
+            "Beyond",
+            "Confront",
+            "Defy",
+            "Tend Toward",
+            "Approach"
+        ]
+    },
+    "26": {
+        "onyomi": [
+            "きょく"
+        ],
+        "kunyomi": [
+            "ま.がる",
+            "ま.げる",
+            "くま"
+        ],
+        "meaning": [
+            "Bend",
+            "Music",
+            "Melody",
+            "Composition",
+            "Pleasure",
+            "Injustice",
+            "Fault",
+            "Curve",
+            "Crooked",
+            "Perverse",
+            "Lean"
+        ]
+    },
+    "27": {
+        "onyomi": [
+            "じ",
+            "し"
+        ],
+        "kunyomi": [
+            "つ.ぐ",
+            "つぎ"
+        ],
+        "meaning": [
+            "Next",
+            "Order",
+            "Sequence"
+        ]
+    },
+    "28": {
+        "onyomi": [
+            "ちょく",
+            "じき",
+            "じか"
+        ],
+        "kunyomi": [
+            "ただ.ちに",
+            "なお.す",
+            "-なお.す",
+            "なお.る",
+            "なお.き",
+            "す.ぐ"
+        ],
+        "meaning": [
+            "Straightaway",
+            "Honesty",
+            "Frankness",
+            "Fix",
+            "Repair"
+        ]
+    },
+    "29": {
+        "onyomi": [
+            "かつ"
+        ],
+        "kunyomi": [
+            "い.きる",
+            "い.かす",
+            "い.ける"
+        ],
+        "meaning": [
+            "Lively",
+            "Resuscitation",
+            "Being Helped",
+            "Living"
+        ]
+    },
+    "30": {
+        "onyomi": [
+            "てん"
+        ],
+        "kunyomi": [
+            "つ.ける",
+            "つ.く",
+            "た.てる",
+            "さ.す",
+            "とぼ.す",
+            "とも.す",
+            "ぼち"
+        ],
+        "meaning": [
+            "Spot",
+            "Point",
+            "Mark",
+            "Speck",
+            "Decimal Point"
+        ]
+    },
+    "31": {
+        "onyomi": [
+            "か"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Department",
+            "Course",
+            "Section"
+        ]
+    },
+    "32": {
+        "onyomi": [
+            "しゅ"
+        ],
+        "kunyomi": [
+            "くび"
+        ],
+        "meaning": [
+            "Neck",
+            "Counter For Songs And Poems"
+        ]
+    },
+    "33": {
+        "onyomi": [
+            "けつ",
+            "けん"
+        ],
+        "kunyomi": [
+            "か.ける",
+            "か.く"
+        ],
+        "meaning": [
+            "Lack",
+            "Gap",
+            "Fail",
+            "Yawning Radical (no. 76)"
+        ]
+    },
+    "34": {
+        "onyomi": [
+            "ゆ",
+            "ゆう",
+            "ゆい"
+        ],
+        "kunyomi": [
+            "よし",
+            "よ.る"
+        ],
+        "meaning": [
+            "Wherefore",
+            "A Reason"
+        ]
+    },
+    "35": {
+        "onyomi": [
+            "みん"
+        ],
+        "kunyomi": [
+            "たみ"
+        ],
+        "meaning": [
+            "People",
+            "Nation",
+            "Subjects"
+        ]
+    },
+    "36": {
+        "onyomi": [
+            "ふ"
+        ],
+        "kunyomi": [
+            "つ.ける",
+            "-つ.ける",
+            "-づ.ける",
+            "つ.け",
+            "つ.け-",
+            "-つ.け",
+            "-づ.け",
+            "-づけ",
+            "つ.く",
+            "-づ.く",
+            "つ.き",
+            "-つ.き",
+            "-つき",
+            "-づ.き",
+            "-づき"
+        ],
+        "meaning": [
+            "Adhere",
+            "Attach",
+            "Refer To",
+            "Append"
+        ]
+    },
+    "37": {
+        "onyomi": [
+            "しつ"
+        ],
+        "kunyomi": [
+            "うしな.う",
+            "う.せる"
+        ],
+        "meaning": [
+            "Lose",
+            "Error",
+            "Fault",
+            "Disadvantage",
+            "Loss"
+        ]
+    },
+    "38": {
+        "onyomi": [
+            "ひつ"
+        ],
+        "kunyomi": [
+            "かなら.ず"
+        ],
+        "meaning": [
+            "Invariably",
+            "Certain",
+            "Inevitable"
+        ]
+    },
+    "39": {
+        "onyomi": [
+            "み",
+            "び"
+        ],
+        "kunyomi": [
+            "いま.だ",
+            "ま.だ",
+            "ひつじ"
+        ],
+        "meaning": [
+            "Un-",
+            "Not Yet",
+            "Hitherto",
+            "Still",
+            "Even Now",
+            "Sign Of The Ram",
+            "1-3pm",
+            "Eighth Sign Of Chinese Zodiac"
+        ]
+    },
+    "40": {
+        "onyomi": [
+            "まつ",
+            "ばつ"
+        ],
+        "kunyomi": [
+            "すえ"
+        ],
+        "meaning": [
+            "End",
+            "Close",
+            "Tip",
+            "Powder",
+            "Posterity"
+        ]
+    },
+    "41": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "しる.す"
+        ],
+        "meaning": [
+            "Scribe",
+            "Account",
+            "Narrative"
+        ]
+    },
+    "42": {
+        "onyomi": [
+            "そ"
+        ],
+        "kunyomi": [
+            "く.む",
+            "くみ",
+            "-ぐみ"
+        ],
+        "meaning": [
+            "Association",
+            "Braid",
+            "Plait",
+            "Construct",
+            "Assemble",
+            "Unite",
+            "Cooperate",
+            "Grapple"
+        ]
+    },
+    "43": {
+        "onyomi": [
+            "せん"
+        ],
+        "kunyomi": [
+            "ふね",
+            "ふな-"
+        ],
+        "meaning": [
+            "Ship",
+            "Boat"
+        ]
+    },
+    "44": {
+        "onyomi": [
+            "せつ"
+        ],
+        "kunyomi": [
+            "ゆき"
+        ],
+        "meaning": [
+            "Snow"
+        ]
+    },
+    "45": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [
+            "ささ.える",
+            "つか.える",
+            "か.う"
+        ],
+        "meaning": [
+            "Branch",
+            "Support",
+            "Sustain",
+            "Branch Radical (no. 65)"
+        ]
+    },
+    "46": {
+        "onyomi": [
+            "じょ"
+        ],
+        "kunyomi": [
+            "たす.ける",
+            "たす.かる",
+            "す.ける",
+            "すけ"
+        ],
+        "meaning": [
+            "Help",
+            "Rescue",
+            "Assist"
+        ]
+    },
+    "47": {
+        "onyomi": [
+            "くん"
+        ],
+        "kunyomi": [
+            "きみ",
+            "-ぎみ"
+        ],
+        "meaning": [
+            "Mister",
+            "You",
+            "Ruler",
+            "Male Name Suffix"
+        ]
+    },
+    "48": {
+        "onyomi": [
+            "たい",
+            "つい"
+        ],
+        "kunyomi": [
+            "あいて",
+            "こた.える",
+            "そろ.い",
+            "つれあ.い",
+            "なら.ぶ",
+            "むか.う"
+        ],
+        "meaning": [
+            "Vis-a-vis",
+            "Opposite",
+            "Even",
+            "Equal",
+            "Versus",
+            "Anti-",
+            "Compare"
+        ]
+    },
+    "49": {
+        "onyomi": [
+            "きょく"
+        ],
+        "kunyomi": [
+            "つぼね"
+        ],
+        "meaning": [
+            "Bureau",
+            "Board",
+            "Office",
+            "Affair",
+            "Conclusion",
+            "Court Lady",
+            "Lady-in-waiting",
+            "Her Apartment"
+        ]
+    },
+    "50": {
+        "onyomi": [
+            "やく",
+            "えき"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Duty",
+            "War",
+            "Campaign",
+            "Drafted Labor",
+            "Office",
+            "Service",
+            "Role"
+        ]
+    },
+    "51": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "な.げる",
+            "-な.げ"
+        ],
+        "meaning": [
+            "Throw",
+            "Discard",
+            "Abandon",
+            "Launch Into",
+            "Join",
+            "Invest In",
+            "Hurl",
+            "Give Up",
+            "Sell At A Loss"
+        ]
+    },
+    "52": {
+        "onyomi": [
+            "けつ"
+        ],
+        "kunyomi": [
+            "き.める",
+            "-ぎ.め",
+            "き.まる",
+            "さ.く"
+        ],
+        "meaning": [
+            "Decide",
+            "Fix",
+            "Agree Upon",
+            "Appoint"
+        ]
+    },
+    "53": {
+        "onyomi": [
+            "ば"
+        ],
+        "kunyomi": [
+            "うま",
+            "うま-",
+            "ま"
+        ],
+        "meaning": [
+            "Horse"
+        ]
+    },
+    "54": {
+        "onyomi": [
+            "ばん"
+        ],
+        "kunyomi": [
+            "つが.い"
+        ],
+        "meaning": [
+            "Turn",
+            "Number In A Series"
+        ]
+    },
+    "55": {
+        "onyomi": [
+            "かい",
+            "え"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Picture",
+            "Drawing",
+            "Painting",
+            "Sketch"
+        ]
+    },
+    "56": {
+        "onyomi": [
+            "すう",
+            "す",
+            "さく",
+            "そく",
+            "しゅ"
+        ],
+        "kunyomi": [
+            "かず",
+            "かぞ.える",
+            "しばしば",
+            "せ.める",
+            "わずらわ.しい"
+        ],
+        "meaning": [
+            "Number",
+            "Strength",
+            "Fate",
+            "Law",
+            "Figures"
+        ]
+    },
+    "57": {
+        "onyomi": [
+            "しょ"
+        ],
+        "kunyomi": [
+            "ところ",
+            "-ところ",
+            "どころ",
+            "とこ"
+        ],
+        "meaning": [
+            "Place",
+            "Extent"
+        ]
+    },
+    "58": {
+        "onyomi": [
+            "ぐ"
+        ],
+        "kunyomi": [
+            "そな.える",
+            "つぶさ.に"
+        ],
+        "meaning": [
+            "Tool",
+            "Utensil",
+            "Means",
+            "Possess",
+            "Ingredients",
+            "Counter For Armor, Suits, Sets Of Furniture"
+        ]
+    },
+    "59": {
+        "onyomi": [
+            "じゅ"
+        ],
+        "kunyomi": [
+            "う.ける",
+            "-う.け",
+            "う.かる"
+        ],
+        "meaning": [
+            "Accept",
+            "Undergo",
+            "Answer (phone)",
+            "Take",
+            "Get",
+            "Catch",
+            "Receive"
+        ]
+    },
+    "60": {
+        "onyomi": [
+            "わ",
+            "お",
+            "か"
+        ],
+        "kunyomi": [
+            "やわ.らぐ",
+            "やわ.らげる",
+            "なご.む",
+            "なご.やか",
+            "あ.える"
+        ],
+        "meaning": [
+            "Harmony",
+            "Japanese Style",
+            "Peace",
+            "Soften",
+            "Japan"
+        ]
+    },
+    "61": {
+        "onyomi": [
+            "てい",
+            "じょう"
+        ],
+        "kunyomi": [
+            "さだ.める",
+            "さだ.まる",
+            "さだ.か"
+        ],
+        "meaning": [
+            "Determine",
+            "Fix",
+            "Establish",
+            "Decide"
+        ]
+    },
+    "62": {
+        "onyomi": [
+            "じつ",
+            "しつ"
+        ],
+        "kunyomi": [
+            "み",
+            "みの.る",
+            "まこと",
+            "みの",
+            "みち.る"
+        ],
+        "meaning": [
+            "Reality",
+            "Truth"
+        ]
+    },
+    "63": {
+        "onyomi": [
+            "えい"
+        ],
+        "kunyomi": [
+            "およ.ぐ"
+        ],
+        "meaning": [
+            "Swim"
+        ]
+    },
+    "64": {
+        "onyomi": [
+            "く"
+        ],
+        "kunyomi": [
+            "くる.しい",
+            "-ぐる.しい",
+            "くる.しむ",
+            "くる.しめる",
+            "にが.い",
+            "にが.る"
+        ],
+        "meaning": [
+            "Suffering",
+            "Trial",
+            "Worry",
+            "Hardship",
+            "Feel Bitter",
+            "Scowl"
+        ]
+    },
+    "65": {
+        "onyomi": [
+            "ひょう"
+        ],
+        "kunyomi": [
+            "おもて",
+            "-おもて",
+            "あらわ.す",
+            "あらわ.れる",
+            "あら.わす"
+        ],
+        "meaning": [
+            "Surface",
+            "Table",
+            "Chart",
+            "Diagram"
+        ]
+    },
+    "66": {
+        "onyomi": [
+            "ぶ"
+        ],
+        "kunyomi": [
+            "-べ"
+        ],
+        "meaning": [
+            "Section",
+            "Bureau",
+            "Dept",
+            "Class",
+            "Copy",
+            "Part",
+            "Portion",
+            "Counter For Copies Of A Newspaper Or Magazine"
+        ]
+    },
+    "67": {
+        "onyomi": [
+            "じょう",
+            "しょう"
+        ],
+        "kunyomi": [
+            "の.る",
+            "-の.り",
+            "の.せる"
+        ],
+        "meaning": [
+            "Ride",
+            "Power",
+            "Multiplication",
+            "Record",
+            "Counter For Vehicles",
+            "Board",
+            "Mount",
+            "Join"
+        ]
+    },
+    "68": {
+        "onyomi": [
+            "きゃく",
+            "かく"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Guest",
+            "Visitor",
+            "Customer",
+            "Client"
+        ]
+    },
+    "69": {
+        "onyomi": [
+            "そう",
+            "しょう"
+        ],
+        "kunyomi": [
+            "あい-"
+        ],
+        "meaning": [
+            "Inter-",
+            "Mutual",
+            "Together",
+            "Each Other",
+            "Minister Of State",
+            "Councillor",
+            "Aspect",
+            "Phase",
+            "Physiognomy"
+        ]
+    },
+    "70": {
+        "onyomi": [
+            "び",
+            "み"
+        ],
+        "kunyomi": [
+            "うつく.しい"
+        ],
+        "meaning": [
+            "Beauty",
+            "Beautiful"
+        ]
+    },
+    "71": {
+        "onyomi": [
+            "ふ"
+        ],
+        "kunyomi": [
+            "ま.ける",
+            "ま.かす",
+            "お.う"
+        ],
+        "meaning": [
+            "Defeat",
+            "Negative",
+            "-",
+            "Minus",
+            "Bear",
+            "Owe",
+            "Assume A Responsibility"
+        ]
+    },
+    "72": {
+        "onyomi": [
+            "だん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Discuss",
+            "Talk"
+        ]
+    },
+    "73": {
+        "onyomi": [
+            "よう"
+        ],
+        "kunyomi": [
+            "い.る",
+            "かなめ"
+        ],
+        "meaning": [
+            "Need",
+            "Main Point",
+            "Essence",
+            "Pivot",
+            "Key To"
+        ]
+    },
+    "74": {
+        "onyomi": [
+            "しょう"
+        ],
+        "kunyomi": [
+            "か.つ",
+            "-が.ち",
+            "まさ.る",
+            "すぐ.れる",
+            "かつ"
+        ],
+        "meaning": [
+            "Victory",
+            "Win",
+            "Prevail",
+            "Excel"
+        ]
+    },
+    "75": {
+        "onyomi": [
+            "そく"
+        ],
+        "kunyomi": [
+            "はや.い",
+            "はや-",
+            "はや.める",
+            "すみ.やか"
+        ],
+        "meaning": [
+            "Quick",
+            "Fast"
+        ]
+    },
+    "76": {
+        "onyomi": [
+            "はい"
+        ],
+        "kunyomi": [
+            "くば.る"
+        ],
+        "meaning": [
+            "Distribute",
+            "Spouse",
+            "Exile",
+            "Rationing"
+        ]
+    },
+    "77": {
+        "onyomi": [
+            "しゅ"
+        ],
+        "kunyomi": [
+            "さけ",
+            "さか-"
+        ],
+        "meaning": [
+            "Sake",
+            "Alcohol"
+        ]
+    },
+    "78": {
+        "onyomi": [
+            "しん"
+        ],
+        "kunyomi": [
+            "すす.む",
+            "すす.める"
+        ],
+        "meaning": [
+            "Advance",
+            "Proceed",
+            "Progress",
+            "Promote"
+        ]
+    },
+    "79": {
+        "onyomi": [
+            "らく"
+        ],
+        "kunyomi": [
+            "お.ちる",
+            "お.ち",
+            "お.とす"
+        ],
+        "meaning": [
+            "Fall",
+            "Drop",
+            "Come Down",
+            "Village",
+            "Hamlet"
+        ]
+    },
+    "80": {
+        "onyomi": [
+            "よう"
+        ],
+        "kunyomi": [
+            "は"
+        ],
+        "meaning": [
+            "Leaf",
+            "Plane",
+            "Lobe",
+            "Needle",
+            "Blade",
+            "Spear",
+            "Counter For Flat Things",
+            "Fragment",
+            "Piece"
+        ]
+    },
+    "81": {
+        "onyomi": [
+            "ろ",
+            "る"
+        ],
+        "kunyomi": [
+            "-じ",
+            "みち"
+        ],
+        "meaning": [
+            "Path",
+            "Route",
+            "Road",
+            "Distance"
+        ]
+    },
+    "82": {
+        "onyomi": [
+            "めい"
+        ],
+        "kunyomi": [
+            "な.く",
+            "な.る",
+            "な.らす"
+        ],
+        "meaning": [
+            "Chirp",
+            "Cry",
+            "Bark",
+            "Sound",
+            "Ring",
+            "Echo",
+            "Honk"
+        ]
+    },
+    "83": {
+        "onyomi": [
+            "おう"
+        ],
+        "kunyomi": [
+            "よこ"
+        ],
+        "meaning": [
+            "Sideways",
+            "Side",
+            "Horizontal",
+            "Width",
+            "Woof",
+            "Unreasonable",
+            "Perverse"
+        ]
+    },
+    "84": {
+        "onyomi": [
+            "ちょう"
+        ],
+        "kunyomi": [
+            "しら.べる",
+            "しら.べ",
+            "ととの.う",
+            "ととの.える"
+        ],
+        "meaning": [
+            "Tune",
+            "Tone",
+            "Meter",
+            "Key (music)",
+            "Writing Style",
+            "Prepare",
+            "Exorcise",
+            "Investigate",
+            "Harmonize",
+            "Mediate"
+        ]
+    },
+    "85": {
+        "onyomi": [
+            "とう",
+            "ず",
+            "と"
+        ],
+        "kunyomi": [
+            "あたま",
+            "かしら",
+            "-がしら",
+            "かぶり"
+        ],
+        "meaning": [
+            "Head",
+            "Counter For Large Animals"
+        ]
+    },
+    "86": {
+        "onyomi": [
+            "がん"
+        ],
+        "kunyomi": [
+            "かお"
+        ],
+        "meaning": [
+            "Face",
+            "Expression"
+        ]
+    },
+    "87": {
+        "onyomi": [
+            "さい",
+            "しゅ"
+        ],
+        "kunyomi": [
+            "もっと.も",
+            "つま"
+        ],
+        "meaning": [
+            "Utmost",
+            "Most",
+            "Extreme"
+        ]
+    },
+    "88": {
+        "onyomi": [
+            "そう"
+        ],
+        "kunyomi": [
+            "あらそ.う",
+            "いか.でか"
+        ],
+        "meaning": [
+            "Contend",
+            "Dispute",
+            "Argue"
+        ]
+    },
+    "89": {
+        "onyomi": [
+            "でん",
+            "てん"
+        ],
+        "kunyomi": [
+            "つた.わる",
+            "つた.える",
+            "つた.う",
+            "つだ.う",
+            "-づた.い",
+            "つて"
+        ],
+        "meaning": [
+            "Transmit",
+            "Go Along",
+            "Walk Along",
+            "Follow",
+            "Report",
+            "Communicate",
+            "Legend",
+            "Tradition"
+        ]
+    },
+    "90": {
+        "onyomi": [
+            "きょう"
+        ],
+        "kunyomi": [
+            "とも",
+            "とも.に",
+            "-ども"
+        ],
+        "meaning": [
+            "Together",
+            "Both",
+            "Neither",
+            "All",
+            "And",
+            "Alike",
+            "With"
+        ]
+    },
+    "91": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "この.む",
+            "す.く",
+            "よ.い",
+            "い.い"
+        ],
+        "meaning": [
+            "Fond",
+            "Pleasing",
+            "Like Something"
+        ]
+    },
+    "92": {
+        "onyomi": [
+            "せい",
+            "じょう"
+        ],
+        "kunyomi": [
+            "な.る",
+            "な.す",
+            "-な.す"
+        ],
+        "meaning": [
+            "Turn Into",
+            "Become",
+            "Get",
+            "Grow",
+            "Elapse",
+            "Reach"
+        ]
+    },
+    "93": {
+        "onyomi": [
+            "ろう"
+        ],
+        "kunyomi": [
+            "お.いる",
+            "ふ.ける"
+        ],
+        "meaning": [
+            "Old Man",
+            "Old Age",
+            "Grow Old"
+        ]
+    },
+    "94": {
+        "onyomi": [
+            "い"
+        ],
+        "kunyomi": [
+            "くらい",
+            "ぐらい"
+        ],
+        "meaning": [
+            "Rank",
+            "Grade",
+            "Throne",
+            "Crown",
+            "About",
+            "Some"
+        ]
+    },
+    "95": {
+        "onyomi": [
+            "しょ"
+        ],
+        "kunyomi": [
+            "はじ.め",
+            "はじ.めて",
+            "はつ",
+            "はつ-",
+            "うい-",
+            "-そ.める",
+            "-ぞ.め"
+        ],
+        "meaning": [
+            "First Time",
+            "Beginning"
+        ]
+    },
+    "96": {
+        "onyomi": [
+            "り"
+        ],
+        "kunyomi": [
+            "き.く"
+        ],
+        "meaning": [
+            "Profit",
+            "Advantage",
+            "Benefit"
+        ]
+    },
+    "97": {
+        "onyomi": [
+            "ど"
+        ],
+        "kunyomi": [
+            "つと.める"
+        ],
+        "meaning": [
+            "Toil",
+            "Diligent",
+            "As Much As Possible"
+        ]
+    },
+    "98": {
+        "onyomi": [
+            "ろう"
+        ],
+        "kunyomi": [
+            "ろう.する",
+            "いたわ.る",
+            "いた.ずき",
+            "ねぎら",
+            "つか.れる",
+            "ねぎら.う"
+        ],
+        "meaning": [
+            "Labor",
+            "Thank For",
+            "Reward For",
+            "Toil",
+            "Trouble"
+        ]
+    },
+    "99": {
+        "onyomi": [
+            "めい",
+            "みょう"
+        ],
+        "kunyomi": [
+            "いのち"
+        ],
+        "meaning": [
+            "Fate",
+            "Command",
+            "Decree",
+            "Destiny",
+            "Life",
+            "Appoint"
+        ]
+    },
+    "100": {
+        "onyomi": [
+            "ほう"
+        ],
+        "kunyomi": [
+            "はな.す",
+            "-っぱな.し",
+            "はな.つ",
+            "はな.れる",
+            "こ.く",
+            "ほう.る"
+        ],
+        "meaning": [
+            "Set Free",
+            "Release",
+            "Fire",
+            "Shoot",
+            "Emit",
+            "Banish",
+            "Liberate"
+        ]
+    },
+    "101": {
+        "onyomi": [
+            "せき",
+            "しゃく"
+        ],
+        "kunyomi": [
+            "むかし"
+        ],
+        "meaning": [
+            "Once Upon A Time",
+            "Antiquity",
+            "Old Times"
+        ]
+    },
+    "102": {
+        "onyomi": [
+            "いく"
+        ],
+        "kunyomi": [
+            "そだ.つ",
+            "そだ.ち",
+            "そだ.てる",
+            "はぐく.む"
+        ],
+        "meaning": [
+            "Bring Up",
+            "Grow Up",
+            "Raise",
+            "Rear"
+        ]
+    },
+    "103": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [
+            "ゆび",
+            "さ.す",
+            "-さ.し"
+        ],
+        "meaning": [
+            "Finger",
+            "Point To",
+            "Indicate",
+            "Put Into",
+            "Play (chess)",
+            "Measure (ruler)"
+        ]
+    },
+    "104": {
+        "onyomi": [
+            "しん",
+            "じん"
+        ],
+        "kunyomi": [
+            "かみ",
+            "かん-",
+            "こう-"
+        ],
+        "meaning": [
+            "Gods",
+            "Mind",
+            "Soul"
+        ]
+    },
+    "105": {
+        "onyomi": [
+            "つい"
+        ],
+        "kunyomi": [
+            "お.う"
+        ],
+        "meaning": [
+            "Chase",
+            "Drive Away",
+            "Follow",
+            "Pursue",
+            "Meanwhile"
+        ]
+    },
+    "106": {
+        "onyomi": [
+            "せん"
+        ],
+        "kunyomi": [
+            "いくさ",
+            "たたか.う",
+            "おのの.く",
+            "そよ.ぐ",
+            "わなな.く"
+        ],
+        "meaning": [
+            "War",
+            "Battle",
+            "Match"
+        ]
+    },
+    "107": {
+        "onyomi": [
+            "りょう"
+        ],
+        "kunyomi": [
+            "よ.い",
+            "-よ.い",
+            "い.い",
+            "-い.い"
+        ],
+        "meaning": [
+            "Good",
+            "Pleasing",
+            "Skilled"
+        ]
+    },
+    "108": {
+        "onyomi": [
+            "べん",
+            "びん"
+        ],
+        "kunyomi": [
+            "たよ.り"
+        ],
+        "meaning": [
+            "Convenience",
+            "Facility",
+            "Excrement",
+            "Feces",
+            "Letter",
+            "Chance"
+        ]
+    },
+    "109": {
+        "onyomi": [
+            "どう"
+        ],
+        "kunyomi": [
+            "はたら.く"
+        ],
+        "meaning": [
+            "Work",
+            "(kokuji)"
+        ]
+    },
+    "110": {
+        "onyomi": [
+            "てい"
+        ],
+        "kunyomi": [
+            "にわ"
+        ],
+        "meaning": [
+            "Courtyard",
+            "Garden",
+            "Yard"
+        ]
+    },
+    "111": {
+        "onyomi": [
+            "そく"
+        ],
+        "kunyomi": [
+            "いき"
+        ],
+        "meaning": [
+            "Breath",
+            "Respiration",
+            "Son",
+            "Interest (on Money)"
+        ]
+    },
+    "112": {
+        "onyomi": [
+            "りゅう",
+            "る"
+        ],
+        "kunyomi": [
+            "なが.れる",
+            "なが.れ",
+            "なが.す",
+            "-なが.す"
+        ],
+        "meaning": [
+            "Current",
+            "A Sink",
+            "Flow",
+            "Forfeit"
+        ]
+    },
+    "113": {
+        "onyomi": [
+            "しょう"
+        ],
+        "kunyomi": [
+            "き.える",
+            "け.す"
+        ],
+        "meaning": [
+            "Extinguish",
+            "Blow Out",
+            "Turn Off",
+            "Neutralize",
+            "Cancel"
+        ]
+    },
+    "114": {
+        "onyomi": [
+            "と",
+            "つ"
+        ],
+        "kunyomi": [
+            "みやこ"
+        ],
+        "meaning": [
+            "Metropolis",
+            "Capital",
+            "All",
+            "Everything"
+        ]
+    },
+    "115": {
+        "onyomi": [
+            "しょう"
+        ],
+        "kunyomi": [
+            "あきな.う"
+        ],
+        "meaning": [
+            "Make A Deal",
+            "Selling",
+            "Dealing In",
+            "Merchant"
+        ]
+    },
+    "116": {
+        "onyomi": [
+            "しん"
+        ],
+        "kunyomi": [
+            "ふか.い",
+            "-ぶか.い",
+            "ふか.まる",
+            "ふか.める",
+            "み-"
+        ],
+        "meaning": [
+            "Deep",
+            "Heighten",
+            "Intensify",
+            "Strengthen"
+        ]
+    },
+    "117": {
+        "onyomi": [
+            "きゅう"
+        ],
+        "kunyomi": [
+            "たま"
+        ],
+        "meaning": [
+            "Ball",
+            "Sphere"
+        ]
+    },
+    "118": {
+        "onyomi": [
+            "よう"
+        ],
+        "kunyomi": [
+            "ひ"
+        ],
+        "meaning": [
+            "Sunshine",
+            "Yang Principle",
+            "Positive",
+            "Male",
+            "Heaven",
+            "Daytime"
+        ]
+    },
+    "119": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [
+            "さむ.い"
+        ],
+        "meaning": [
+            "Cold"
+        ]
+    },
+    "120": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "かな.しい",
+            "かな.しむ"
+        ],
+        "meaning": [
+            "Grieve",
+            "Sad",
+            "Deplore",
+            "Regret"
+        ]
+    },
+    "121": {
+        "onyomi": [
+            "き",
+            "ご"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Period",
+            "Time",
+            "Date",
+            "Term"
+        ]
+    },
+    "122": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [
+            "よわい",
+            "は",
+            "よわ.い",
+            "よわい.する"
+        ],
+        "meaning": [
+            "Tooth",
+            "Cog"
+        ]
+    },
+    "123": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "みなと"
+        ],
+        "meaning": [
+            "Harbor"
+        ]
+    },
+    "124": {
+        "onyomi": [
+            "とう",
+            "と",
+            "どう",
+            "しょう",
+            "ちょう"
+        ],
+        "kunyomi": [
+            "のぼ.る",
+            "あ.がる"
+        ],
+        "meaning": [
+            "Ascend",
+            "Climb Up"
+        ]
+    },
+    "125": {
+        "onyomi": [
+            "ぼう",
+            "もう"
+        ],
+        "kunyomi": [
+            "な.い",
+            "な.き-",
+            "ほろ.びる",
+            "ほろ.ぶ",
+            "ほろ.ぼす"
+        ],
+        "meaning": [
+            "Deceased",
+            "The Late",
+            "Dying",
+            "Perish"
+        ]
+    },
+    "126": {
+        "onyomi": [
+            "ごう",
+            "がっ",
+            "かっ"
+        ],
+        "kunyomi": [
+            "あ.う",
+            "-あ.う",
+            "あ.い",
+            "あい-",
+            "-あ.い",
+            "-あい",
+            "あ.わす",
+            "あ.わせる",
+            "-あ.わせる"
+        ],
+        "meaning": [
+            "Fit",
+            "Suit",
+            "Join",
+            "0.1"
+        ]
+    },
+    "127": {
+        "onyomi": [
+            "よ",
+            "しゃ"
+        ],
+        "kunyomi": [
+            "あらかじ.め"
+        ],
+        "meaning": [
+            "Beforehand",
+            "Previous",
+            "Myself",
+            "I"
+        ]
+    },
+    "128": {
+        "onyomi": [
+            "はん",
+            "ほん",
+            "たん",
+            "ほ"
+        ],
+        "kunyomi": [
+            "そ.る",
+            "そ.らす",
+            "かえ.す",
+            "かえ.る",
+            "-かえ.る"
+        ],
+        "meaning": [
+            "Anti-"
+        ]
+    },
+    "129": {
+        "onyomi": [
+            "へん"
+        ],
+        "kunyomi": [
+            "かえ.す",
+            "-かえ.す",
+            "かえ.る",
+            "-かえ.る"
+        ],
+        "meaning": [
+            "Return",
+            "Answer",
+            "Fade",
+            "Repay"
+        ]
+    },
+    "130": {
+        "onyomi": [
+            "しゅく"
+        ],
+        "kunyomi": [
+            "やど",
+            "やど.る",
+            "やど.す"
+        ],
+        "meaning": [
+            "Inn",
+            "Lodging",
+            "Relay Station",
+            "Dwell",
+            "Lodge",
+            "Be Pregnant",
+            "Home",
+            "Dwelling"
+        ]
+    },
+    "131": {
+        "onyomi": [
+            "そう",
+            "そ"
+        ],
+        "kunyomi": [
+            "おも.う"
+        ],
+        "meaning": [
+            "Concept",
+            "Think",
+            "Idea",
+            "Thought"
+        ]
+    },
+    "132": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Emotion",
+            "Feeling",
+            "Sensation"
+        ]
+    },
+    "133": {
+        "onyomi": [
+            "あん"
+        ],
+        "kunyomi": [
+            "くら.い",
+            "くら.む",
+            "くれ.る"
+        ],
+        "meaning": [
+            "Darkness",
+            "Disappear",
+            "Shade",
+            "Informal",
+            "Grow Dark",
+            "Be Blinded"
+        ]
+    },
+    "134": {
+        "onyomi": [
+            "よう",
+            "しょう"
+        ],
+        "kunyomi": [
+            "さま",
+            "さん"
+        ],
+        "meaning": [
+            "Esq.",
+            "Way",
+            "Manner",
+            "Situation",
+            "Polite Suffix"
+        ]
+    },
+    "135": {
+        "onyomi": [
+            "ふく"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Blessing",
+            "Fortune",
+            "Luck",
+            "Wealth"
+        ]
+    },
+    "136": {
+        "onyomi": [
+            "さつ",
+            "さい",
+            "せつ"
+        ],
+        "kunyomi": [
+            "ころ.す",
+            "-ごろ.し",
+            "そ.ぐ"
+        ],
+        "meaning": [
+            "Kill",
+            "Murder",
+            "Butcher",
+            "Slice Off",
+            "Split",
+            "Diminish",
+            "Reduce",
+            "Spoil"
+        ]
+    },
+    "137": {
+        "onyomi": [
+            "ぜん",
+            "ねん"
+        ],
+        "kunyomi": [
+            "しか",
+            "しか.り",
+            "しか.し",
+            "さ"
+        ],
+        "meaning": [
+            "Sort Of Thing",
+            "So",
+            "If So",
+            "In That Case",
+            "Well"
+        ]
+    },
+    "138": {
+        "onyomi": [
+            "ねつ"
+        ],
+        "kunyomi": [
+            "あつ.い"
+        ],
+        "meaning": [
+            "Heat",
+            "Temperature",
+            "Fever",
+            "Mania",
+            "Passion"
+        ]
+    },
+    "139": {
+        "onyomi": [
+            "せん"
+        ],
+        "kunyomi": [
+            "えら.ぶ"
+        ],
+        "meaning": [
+            "Elect",
+            "Select",
+            "Choose",
+            "Prefer"
+        ]
+    },
+    "140": {
+        "onyomi": [
+            "がん"
+        ],
+        "kunyomi": [
+            "ねが.う",
+            "-ねがい"
+        ],
+        "meaning": [
+            "Petition",
+            "Request",
+            "Vow",
+            "Wish",
+            "Hope"
+        ]
+    },
+    "141": {
+        "onyomi": [
+            "じょう",
+            "せい"
+        ],
+        "kunyomi": [
+            "なさ.け"
+        ],
+        "meaning": [
+            "Feelings",
+            "Emotion",
+            "Passion",
+            "Sympathy",
+            "Circumstances",
+            "Facts"
+        ]
+    },
+    "142": {
+        "onyomi": [
+            "ぎ"
+        ],
+        "kunyomi": [
+            "うたが.う"
+        ],
+        "meaning": [
+            "Doubt",
+            "Distrust",
+            "Be Suspicious",
+            "Question"
+        ]
+    },
+    "143": {
+        "onyomi": [
+            "かい"
+        ],
+        "kunyomi": [
+            "みな",
+            "みんな"
+        ],
+        "meaning": [
+            "All",
+            "Everything"
+        ]
+    },
+    "144": {
+        "onyomi": [
+            "れい"
+        ],
+        "kunyomi": [
+            "たと.える"
+        ],
+        "meaning": [
+            "Example",
+            "Custom",
+            "Usage",
+            "Precedent"
+        ]
+    },
+    "145": {
+        "onyomi": [
+            "さん",
+            "しん"
+        ],
+        "kunyomi": [
+            "まい.る",
+            "まい-",
+            "まじわる",
+            "みつ"
+        ],
+        "meaning": [
+            "Nonplussed",
+            "Three (in Documents)",
+            "Going",
+            "Coming",
+            "Visiting",
+            "Visit",
+            "Be Defeated",
+            "Die",
+            "Be Madly In Love",
+            "Participate",
+            "Take Part In"
+        ]
+    },
+    "146": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Perfect",
+            "Completion",
+            "End"
+        ]
+    },
+    "147": {
+        "onyomi": [
+            "ねん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Wish",
+            "Sense",
+            "Idea",
+            "Thought",
+            "Feeling",
+            "Desire",
+            "Attention"
+        ]
+    },
+    "148": {
+        "onyomi": [
+            "せつ",
+            "しゃく"
+        ],
+        "kunyomi": [
+            "お.る",
+            "おり",
+            "お.り",
+            "-お.り",
+            "お.れる"
+        ],
+        "meaning": [
+            "Fold",
+            "Break",
+            "Fracture",
+            "Bend",
+            "Yield",
+            "Submit"
+        ]
+    },
+    "149": {
+        "onyomi": [
+            "ぼう",
+            "もう"
+        ],
+        "kunyomi": [
+            "のぞ.む",
+            "もち"
+        ],
+        "meaning": [
+            "Ambition",
+            "Full Moon",
+            "Hope",
+            "Desire",
+            "Aspire To",
+            "Expect"
+        ]
+    },
+    "150": {
+        "onyomi": [
+            "そく"
+        ],
+        "kunyomi": [
+            "たば",
+            "たば.ねる",
+            "つか",
+            "つか.ねる"
+        ],
+        "meaning": [
+            "Bundle",
+            "Sheaf",
+            "Ream",
+            "Tie In Bundles",
+            "Govern",
+            "Manage",
+            "Control"
+        ]
+    },
+    "151": {
+        "onyomi": [
+            "ざん",
+            "さん"
+        ],
+        "kunyomi": [
+            "のこ.る",
+            "のこ.す",
+            "そこな.う",
+            "のこ.り"
+        ],
+        "meaning": [
+            "Remainder",
+            "Leftover",
+            "Balance"
+        ]
+    },
+    "152": {
+        "onyomi": [
+            "きゅう",
+            "ぐ"
+        ],
+        "kunyomi": [
+            "もと.める"
+        ],
+        "meaning": [
+            "Request",
+            "Want",
+            "Wish For",
+            "Require",
+            "Demand"
+        ]
+    },
+    "153": {
+        "onyomi": [
+            "やく"
+        ],
+        "kunyomi": [
+            "つづ.まる",
+            "つづ.める",
+            "つづま.やか"
+        ],
+        "meaning": [
+            "Promise",
+            "Approximately",
+            "Shrink"
+        ]
+    },
+    "154": {
+        "onyomi": [
+            "せい",
+            "しょう"
+        ],
+        "kunyomi": [
+            "さが"
+        ],
+        "meaning": [
+            "Sex",
+            "Gender",
+            "Nature"
+        ]
+    },
+    "155": {
+        "onyomi": [
+            "かく",
+            "こう",
+            "きゃく",
+            "ごう"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Status",
+            "Rank",
+            "Capacity",
+            "Character",
+            "Case (law, Grammar)"
+        ]
+    },
+    "156": {
+        "onyomi": [
+            "のう"
+        ],
+        "kunyomi": [
+            "よ.く"
+        ],
+        "meaning": [
+            "Ability",
+            "Talent",
+            "Skill",
+            "Capacity"
+        ]
+    },
+    "157": {
+        "onyomi": [
+            "じゅつ"
+        ],
+        "kunyomi": [
+            "すべ"
+        ],
+        "meaning": [
+            "Art",
+            "Technique",
+            "Skill",
+            "Means",
+            "Trick",
+            "Resources",
+            "Magic"
+        ]
+    },
+    "158": {
+        "onyomi": [
+            "せい"
+        ],
+        "kunyomi": [
+            "は.れる",
+            "は.れ",
+            "は.れ-",
+            "-ば.れ",
+            "は.らす"
+        ],
+        "meaning": [
+            "Clear Up"
+        ]
+    },
+    "159": {
+        "onyomi": [
+            "れつ",
+            "れ"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "File",
+            "Row",
+            "Rank",
+            "Tier",
+            "Column"
+        ]
+    },
+    "160": {
+        "onyomi": [
+            "しき"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Style",
+            "Ceremony",
+            "Rite",
+            "Function",
+            "Method",
+            "System",
+            "Form",
+            "Expression"
+        ]
+    },
+    "161": {
+        "onyomi": [
+            "しん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Faith",
+            "Truth",
+            "Fidelity",
+            "Trust"
+        ]
+    },
+    "162": {
+        "onyomi": [
+            "たん"
+        ],
+        "kunyomi": [
+            "ひとえ"
+        ],
+        "meaning": [
+            "Simple",
+            "One",
+            "Single",
+            "Merely"
+        ]
+    },
+    "163": {
+        "onyomi": [
+            "へん"
+        ],
+        "kunyomi": [
+            "か.わる",
+            "か.わり",
+            "か.える"
+        ],
+        "meaning": [
+            "Unusual",
+            "Change",
+            "Strange"
+        ]
+    },
+    "164": {
+        "onyomi": [
+            "ふ",
+            "ふう",
+            "ぶ"
+        ],
+        "kunyomi": [
+            "おっと",
+            "それ"
+        ],
+        "meaning": [
+            "Husband",
+            "Man"
+        ]
+    },
+    "165": {
+        "onyomi": [
+            "さく"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Yesterday",
+            "Previous"
+        ]
+    },
+    "166": {
+        "onyomi": [
+            "ほう",
+            "はっ",
+            "ほっ",
+            "ふらん"
+        ],
+        "kunyomi": [
+            "のり"
+        ],
+        "meaning": [
+            "Method",
+            "Law",
+            "Rule",
+            "Principle",
+            "Model",
+            "System"
+        ]
+    },
+    "167": {
+        "onyomi": [
+            "ばん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Nightfall",
+            "Night"
+        ]
+    },
+    "168": {
+        "onyomi": [
+            "びょう"
+        ],
+        "kunyomi": [
+            "ねこ"
+        ],
+        "meaning": [
+            "Cat"
+        ]
+    },
+    "169": {
+        "onyomi": [
+            "えん"
+        ],
+        "kunyomi": [
+            "その"
+        ],
+        "meaning": [
+            "Park",
+            "Garden",
+            "Yard",
+            "Farm"
+        ]
+    },
+    "170": {
+        "onyomi": [
+            "えん",
+            "おん"
+        ],
+        "kunyomi": [
+            "とお.い"
+        ],
+        "meaning": [
+            "Distant",
+            "Far"
+        ]
+    },
+    "171": {
+        "onyomi": [
+            "けい"
+        ],
+        "kunyomi": [
+            "かか.る",
+            "かかり",
+            "-がかり",
+            "かか.わる"
+        ],
+        "meaning": [
+            "Person In Charge",
+            "Connection",
+            "Duty",
+            "Concern Oneself"
+        ]
+    },
+    "172": {
+        "onyomi": [
+            "しゅ"
+        ],
+        "kunyomi": [
+            "と.る",
+            "と.り",
+            "と.り-",
+            "とり",
+            "-ど.り"
+        ],
+        "meaning": [
+            "Take",
+            "Fetch",
+            "Take Up"
+        ]
+    },
+    "173": {
+        "onyomi": [
+            "しゅ",
+            "す"
+        ],
+        "kunyomi": [
+            "まも.る",
+            "まも.り",
+            "もり",
+            "-もり",
+            "かみ"
+        ],
+        "meaning": [
+            "Guard",
+            "Protect",
+            "Defend",
+            "Obey"
+        ]
+    },
+    "174": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "さいわ.い",
+            "さち",
+            "しあわ.せ"
+        ],
+        "meaning": [
+            "Happiness",
+            "Blessing",
+            "Fortune"
+        ]
+    },
+    "175": {
+        "onyomi": [
+            "そう"
+        ],
+        "kunyomi": [
+            "はこ"
+        ],
+        "meaning": [
+            "Box",
+            "Chest",
+            "Case",
+            "Bin",
+            "Railway Car"
+        ]
+    },
+    "176": {
+        "onyomi": [
+            "めん",
+            "べん"
+        ],
+        "kunyomi": [
+            "おも",
+            "おもて",
+            "つら"
+        ],
+        "meaning": [
+            "Mask",
+            "Face",
+            "Features",
+            "Surface"
+        ]
+    },
+    "177": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "よろこ.ぶ",
+            "よろこ.ばす"
+        ],
+        "meaning": [
+            "Rejoice",
+            "Take Pleasure In"
+        ]
+    },
+    "178": {
+        "onyomi": [
+            "じ",
+            "ち"
+        ],
+        "kunyomi": [
+            "おさ.める",
+            "おさ.まる",
+            "なお.る",
+            "なお.す"
+        ],
+        "meaning": [
+            "Reign",
+            "Be At Peace",
+            "Calm Down",
+            "Subdue",
+            "Quell",
+            "Govt",
+            "Cure",
+            "Heal",
+            "Rule",
+            "Conserve"
+        ]
+    },
+    "179": {
+        "onyomi": [
+            "しょう"
+        ],
+        "kunyomi": [
+            "わら.う",
+            "え.む"
+        ],
+        "meaning": [
+            "Laugh"
+        ]
+    },
+    "180": {
+        "onyomi": [
+            "じ"
+        ],
+        "kunyomi": [
+            "や.める",
+            "いな.む"
+        ],
+        "meaning": [
+            "Resign",
+            "Word",
+            "Term",
+            "Expression"
+        ]
+    },
+    "181": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [
+            "せき",
+            "-ぜき",
+            "かか.わる",
+            "からくり",
+            "かんぬき"
+        ],
+        "meaning": [
+            "Connection",
+            "Barrier",
+            "Gateway",
+            "Involve",
+            "Concerning"
+        ]
+    },
+    "182": {
+        "onyomi": [
+            "せい",
+            "しょう"
+        ],
+        "kunyomi": [
+            "まつりごと",
+            "まん"
+        ],
+        "meaning": [
+            "Politics",
+            "Government"
+        ]
+    },
+    "183": {
+        "onyomi": [
+            "りゅう",
+            "る"
+        ],
+        "kunyomi": [
+            "と.める",
+            "と.まる",
+            "とど.める",
+            "とど.まる",
+            "るうぶる"
+        ],
+        "meaning": [
+            "Detain",
+            "Fasten",
+            "Halt",
+            "Stop"
+        ]
+    },
+    "184": {
+        "onyomi": [
+            "けん"
+        ],
+        "kunyomi": [
+            "けわ.しい"
+        ],
+        "meaning": [
+            "Precipitous",
+            "Inaccessible Place",
+            "Impregnable Position",
+            "Steep Place",
+            "Sharp Eyes"
+        ]
+    },
+    "185": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "あぶ.ない",
+            "あや.うい",
+            "あや.ぶむ"
+        ],
+        "meaning": [
+            "Dangerous",
+            "Fear",
+            "Uneasy"
+        ]
+    },
+    "186": {
+        "onyomi": [
+            "そん",
+            "ぞん"
+        ],
+        "kunyomi": [
+            "ながら.える",
+            "あ.る",
+            "たも.つ",
+            "と.う"
+        ],
+        "meaning": [
+            "Exist",
+            "Suppose",
+            "Be Aware Of",
+            "Believe",
+            "Feel"
+        ]
+    },
+    "187": {
+        "onyomi": [
+            "げん"
+        ],
+        "kunyomi": [
+            "はら"
+        ],
+        "meaning": [
+            "Meadow",
+            "Original",
+            "Primitive",
+            "Field",
+            "Plain",
+            "Prairie",
+            "Tundra",
+            "Wilderness"
+        ]
+    },
+    "188": {
+        "onyomi": [
+            "やく"
+        ],
+        "kunyomi": [
+            "くすり"
+        ],
+        "meaning": [
+            "Medicine",
+            "Chemical",
+            "Enamel",
+            "Gunpowder",
+            "Benefit"
+        ]
+    },
+    "189": {
+        "onyomi": [
+            "そく"
+        ],
+        "kunyomi": [
+            "かわ",
+            "がわ",
+            "そば"
+        ],
+        "meaning": [
+            "Side",
+            "Lean",
+            "Oppose",
+            "Regret"
+        ]
+    },
+    "190": {
+        "onyomi": [
+            "せき"
+        ],
+        "kunyomi": [
+            "むしろ"
+        ],
+        "meaning": [
+            "Seat",
+            "Mat",
+            "Occasion",
+            "Place"
+        ]
+    },
+    "191": {
+        "onyomi": [
+            "はい"
+        ],
+        "kunyomi": [
+            "やぶ.れる"
+        ],
+        "meaning": [
+            "Failure",
+            "Defeat",
+            "Reversal"
+        ]
+    },
+    "192": {
+        "onyomi": [
+            "か"
+        ],
+        "kunyomi": [
+            "は.たす",
+            "はた.す",
+            "-は.たす",
+            "は.てる",
+            "-は.てる",
+            "は.て"
+        ],
+        "meaning": [
+            "Fruit",
+            "Reward",
+            "Carry Out",
+            "Achieve",
+            "Complete",
+            "End",
+            "Finish",
+            "Succeed"
+        ]
+    },
+    "193": {
+        "onyomi": [
+            "いん"
+        ],
+        "kunyomi": [
+            "よ.る",
+            "ちな.む"
+        ],
+        "meaning": [
+            "Cause",
+            "Factor",
+            "Be Associated With",
+            "Depend On",
+            "Be Limited To"
+        ]
+    },
+    "194": {
+        "onyomi": [
+            "じょう"
+        ],
+        "kunyomi": [
+            "つね",
+            "とこ-"
+        ],
+        "meaning": [
+            "Usual",
+            "Ordinary",
+            "Normal",
+            "Common",
+            "Regular",
+            "Continually",
+            "Always",
+            "Long-lasting"
+        ]
+    },
+    "195": {
+        "onyomi": [
+            "しき"
+        ],
+        "kunyomi": [
+            "し.る",
+            "しる.す"
+        ],
+        "meaning": [
+            "Discriminating",
+            "Know",
+            "Write"
+        ]
+    },
+    "196": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "あら.ず"
+        ],
+        "meaning": [
+            "Un-",
+            "Mistake",
+            "Negative",
+            "Injustice",
+            "Non-"
+        ]
+    },
+    "197": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Bureaucrat",
+            "The Government",
+            "Organ"
+        ]
+    },
+    "198": {
+        "onyomi": [
+            "さつ"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Guess",
+            "Presume",
+            "Surmise",
+            "Judge",
+            "Understand"
+        ]
+    },
+    "199": {
+        "onyomi": [
+            "あい"
+        ],
+        "kunyomi": [
+            "いと.しい",
+            "かな.しい",
+            "め.でる",
+            "お.しむ",
+            "まな"
+        ],
+        "meaning": [
+            "Love",
+            "Affection",
+            "Favourite"
+        ]
+    },
+    "200": {
+        "onyomi": [
+            "けい"
+        ],
+        "kunyomi": [
+            "いまし.める"
+        ],
+        "meaning": [
+            "Admonish",
+            "Commandment"
+        ]
+    },
+    "201": {
+        "onyomi": [
+            "かく"
+        ],
+        "kunyomi": [
+            "おぼ.える",
+            "さ.ます",
+            "さ.める",
+            "さと.る"
+        ],
+        "meaning": [
+            "Memorize",
+            "Learn",
+            "Remember",
+            "Awake",
+            "Sober Up"
+        ]
+    },
+    "202": {
+        "onyomi": [
+            "せつ",
+            "ぜい"
+        ],
+        "kunyomi": [
+            "と.く"
+        ],
+        "meaning": [
+            "Opinion",
+            "Theory",
+            "Explanation",
+            "Rumor"
+        ]
+    },
+    "203": {
+        "onyomi": [
+            "こく"
+        ],
+        "kunyomi": [
+            "つ.げる"
+        ],
+        "meaning": [
+            "Revelation",
+            "Tell",
+            "Inform",
+            "Announce"
+        ]
+    },
+    "204": {
+        "onyomi": [
+            "しゅ"
+        ],
+        "kunyomi": [
+            "たね",
+            "-ぐさ"
+        ],
+        "meaning": [
+            "Species",
+            "Kind",
+            "Class",
+            "Variety",
+            "Seed"
+        ]
+    },
+    "205": {
+        "onyomi": [
+            "たつ",
+            "だ"
+        ],
+        "kunyomi": [
+            "-たち"
+        ],
+        "meaning": [
+            "Accomplished",
+            "Reach",
+            "Arrive",
+            "Attain"
+        ]
+    },
+    "206": {
+        "onyomi": [
+            "るい"
+        ],
+        "kunyomi": [
+            "たぐ.い"
+        ],
+        "meaning": [
+            "Sort",
+            "Kind",
+            "Variety",
+            "Class",
+            "Genus"
+        ]
+    },
+    "207": {
+        "onyomi": [
+            "ほう"
+        ],
+        "kunyomi": [
+            "むく.いる"
+        ],
+        "meaning": [
+            "Report",
+            "News",
+            "Reward",
+            "Retribution"
+        ]
+    },
+    "208": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "ひと.しい",
+            "など",
+            "-ら"
+        ],
+        "meaning": [
+            "Etc.",
+            "And So Forth",
+            "Class (first)",
+            "Quality",
+            "Equal",
+            "Similar"
+        ]
+    },
+    "209": {
+        "onyomi": [
+            "ざ"
+        ],
+        "kunyomi": [
+            "すわ.る"
+        ],
+        "meaning": [
+            "Squat",
+            "Seat",
+            "Cushion",
+            "Gathering",
+            "Sit"
+        ]
+    },
+    "210": {
+        "onyomi": [
+            "ぼう"
+        ],
+        "kunyomi": [
+            "わす.れる"
+        ],
+        "meaning": [
+            "Forget"
+        ]
+    },
+    "211": {
+        "onyomi": [
+            "せん"
+        ],
+        "kunyomi": [
+            "あら.う"
+        ],
+        "meaning": [
+            "Wash",
+            "Inquire Into",
+            "Probe"
+        ]
+    },
+    "212": {
+        "onyomi": [
+            "きょ"
+        ],
+        "kunyomi": [
+            "ゆる.す",
+            "もと"
+        ],
+        "meaning": [
+            "Permit",
+            "Approve"
+        ]
+    },
+    "213": {
+        "onyomi": [
+            "せい",
+            "じょう"
+        ],
+        "kunyomi": [
+            "しず-",
+            "しず.か",
+            "しず.まる",
+            "しず.める"
+        ],
+        "meaning": [
+            "Quiet"
+        ]
+    },
+    "214": {
+        "onyomi": [
+            "えん"
+        ],
+        "kunyomi": [
+            "けむ.る",
+            "けむり",
+            "けむ.い"
+        ],
+        "meaning": [
+            "Smoke"
+        ]
+    },
+    "215": {
+        "onyomi": [
+            "か"
+        ],
+        "kunyomi": [
+            "くわ.える",
+            "くわ.わる"
+        ],
+        "meaning": [
+            "Add",
+            "Addition",
+            "Increase",
+            "Join",
+            "Include",
+            "Canada"
+        ]
+    },
+    "216": {
+        "onyomi": [
+            "よう"
+        ],
+        "kunyomi": [
+            "い.れる"
+        ],
+        "meaning": [
+            "Contain",
+            "Form",
+            "Looks"
+        ]
+    },
+    "217": {
+        "onyomi": [
+            "えき",
+            "い"
+        ],
+        "kunyomi": [
+            "やさ.しい",
+            "やす.い"
+        ],
+        "meaning": [
+            "Easy",
+            "Ready To",
+            "Simple",
+            "Fortune-telling",
+            "Divination"
+        ]
+    },
+    "218": {
+        "onyomi": [
+            "ざい",
+            "さい",
+            "ぞく"
+        ],
+        "kunyomi": [
+            "たから"
+        ],
+        "meaning": [
+            "Property",
+            "Money",
+            "Wealth",
+            "Assets"
+        ]
+    },
+    "219": {
+        "onyomi": [
+            "じゃく",
+            "にゃく",
+            "にゃ"
+        ],
+        "kunyomi": [
+            "わか.い",
+            "わか-",
+            "も.しくわ",
+            "も.し",
+            "も.しくは",
+            "ごと.し"
+        ],
+        "meaning": [
+            "Young",
+            "If",
+            "Perhaps",
+            "Possibly",
+            "Low Number",
+            "Immature"
+        ]
+    },
+    "220": {
+        "onyomi": [
+            "ぼう",
+            "もう"
+        ],
+        "kunyomi": [
+            "いそが.しい",
+            "せわ.しい",
+            "おそ.れる",
+            "うれえるさま"
+        ],
+        "meaning": [
+            "Busy",
+            "Occupied",
+            "Restless"
+        ]
+    },
+    "221": {
+        "onyomi": [
+            "と"
+        ],
+        "kunyomi": [
+            "いたずら",
+            "あだ"
+        ],
+        "meaning": [
+            "On Foot",
+            "Junior",
+            "Emptiness",
+            "Vanity",
+            "Futility",
+            "Uselessness",
+            "Ephemeral Thing",
+            "Gang",
+            "Set",
+            "Party",
+            "People"
+        ]
+    },
+    "222": {
+        "onyomi": [
+            "とく"
+        ],
+        "kunyomi": [
+            "え.る",
+            "う.る"
+        ],
+        "meaning": [
+            "Gain",
+            "Get",
+            "Find",
+            "Earn",
+            "Acquire",
+            "Can",
+            "May",
+            "Able To",
+            "Profit",
+            "Advantage",
+            "Benefit"
+        ]
+    },
+    "223": {
+        "onyomi": [
+            "ぞく",
+            "しょく",
+            "こう",
+            "きょう"
+        ],
+        "kunyomi": [
+            "つづ.く",
+            "つづ.ける",
+            "つぐ.ない"
+        ],
+        "meaning": [
+            "Continue",
+            "Series",
+            "Sequel"
+        ]
+    },
+    "224": {
+        "onyomi": [
+            "れん"
+        ],
+        "kunyomi": [
+            "つら.なる",
+            "つら.ねる",
+            "つ.れる",
+            "-づ.れ"
+        ],
+        "meaning": [
+            "Take Along",
+            "Lead",
+            "Join",
+            "Connect",
+            "Party",
+            "Gang",
+            "Clique"
+        ]
+    },
+    "225": {
+        "onyomi": [
+            "こん"
+        ],
+        "kunyomi": [
+            "こま.る"
+        ],
+        "meaning": [
+            "Quandary",
+            "Become Distressed",
+            "Annoyed"
+        ]
+    },
+    "226": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "はた"
+        ],
+        "meaning": [
+            "Loom",
+            "Mechanism",
+            "Machine",
+            "Airplane",
+            "Opportunity",
+            "Potency",
+            "Efficacy",
+            "Occasion"
+        ]
+    },
+    "227": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "と.ぶ",
+            "と.ばす",
+            "-と.ばす"
+        ],
+        "meaning": [
+            "Fly",
+            "Skip (pages)",
+            "Scatter"
+        ]
+    },
+    "228": {
+        "onyomi": [
+            "がい"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Harm",
+            "Injury"
+        ]
+    },
+    "229": {
+        "onyomi": [
+            "よ"
+        ],
+        "kunyomi": [
+            "あま.る",
+            "あま.り",
+            "あま.す",
+            "あんま.り"
+        ],
+        "meaning": [
+            "Too Much",
+            "Myself",
+            "Surplus",
+            "Other",
+            "Remainder"
+        ]
+    },
+    "230": {
+        "onyomi": [
+            "なん"
+        ],
+        "kunyomi": [
+            "かた.い",
+            "-がた.い",
+            "むずか.しい",
+            "むづか.しい",
+            "むつか.しい",
+            "-にく.い"
+        ],
+        "meaning": [
+            "Difficult",
+            "Impossible",
+            "Trouble",
+            "Accident",
+            "Defect"
+        ]
+    },
+    "231": {
+        "onyomi": [
+            "かく",
+            "こう"
+        ],
+        "kunyomi": [
+            "たし.か",
+            "たし.かめる"
+        ],
+        "meaning": [
+            "Assurance",
+            "Firm",
+            "Tight",
+            "Hard",
+            "Solid",
+            "Confirm",
+            "Clear",
+            "Evident"
+        ]
+    },
+    "232": {
+        "onyomi": [
+            "ざい"
+        ],
+        "kunyomi": [
+            "あ.る"
+        ],
+        "meaning": [
+            "Exist",
+            "Outskirts",
+            "Suburbs",
+            "Located In"
+        ]
+    },
+    "233": {
+        "onyomi": [
+            "む",
+            "ぼう"
+        ],
+        "kunyomi": [
+            "ゆめ",
+            "ゆめ.みる",
+            "くら.い"
+        ],
+        "meaning": [
+            "Dream",
+            "Vision",
+            "Illusion"
+        ]
+    },
+    "234": {
+        "onyomi": [
+            "さん"
+        ],
+        "kunyomi": [
+            "う.む",
+            "う.まれる",
+            "うぶ-",
+            "む.す"
+        ],
+        "meaning": [
+            "Products",
+            "Bear",
+            "Give Birth",
+            "Yield",
+            "Childbirth",
+            "Native",
+            "Property"
+        ]
+    },
+    "235": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "たお.れる",
+            "-だお.れ",
+            "たお.す",
+            "さかさま",
+            "さかさ",
+            "さかしま"
+        ],
+        "meaning": [
+            "Overthrow",
+            "Fall",
+            "Collapse",
+            "Drop",
+            "Break Down"
+        ]
+    },
+    "236": {
+        "onyomi": [
+            "さい"
+        ],
+        "kunyomi": [
+            "つま"
+        ],
+        "meaning": [
+            "Wife",
+            "Spouse"
+        ]
+    },
+    "237": {
+        "onyomi": [
+            "ぎ"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Deliberation",
+            "Consultation",
+            "Debate",
+            "Consideration"
+        ]
+    },
+    "238": {
+        "onyomi": [
+            "はん",
+            "ぼん"
+        ],
+        "kunyomi": [
+            "おか.す"
+        ],
+        "meaning": [
+            "Crime",
+            "Sin",
+            "Offense"
+        ]
+    },
+    "239": {
+        "onyomi": [
+            "ざい"
+        ],
+        "kunyomi": [
+            "つみ"
+        ],
+        "meaning": [
+            "Guilt",
+            "Sin",
+            "Crime",
+            "Fault",
+            "Blame",
+            "Offense"
+        ]
+    },
+    "240": {
+        "onyomi": [
+            "ろん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Argument",
+            "Discourse"
+        ]
+    },
+    "241": {
+        "onyomi": [
+            "けい",
+            "きょう",
+            "きん"
+        ],
+        "kunyomi": [
+            "へ.る",
+            "た.つ",
+            "たていと",
+            "はか.る",
+            "のり"
+        ],
+        "meaning": [
+            "Sutra",
+            "Longitude",
+            "Pass Thru",
+            "Expire",
+            "Warp"
+        ]
+    },
+    "242": {
+        "onyomi": [
+            "さい",
+            "せい"
+        ],
+        "kunyomi": [
+            "す.む",
+            "-ず.み",
+            "-ずみ",
+            "す.まない",
+            "す.ます",
+            "-す.ます",
+            "すく.う",
+            "な.す",
+            "わたし",
+            "わた.る"
+        ],
+        "meaning": [
+            "Settle (debt, Etc.)",
+            "Relieve (burden)",
+            "Finish",
+            "Come To An End",
+            "Excusable",
+            "Need Not"
+        ]
+    },
+    "243": {
+        "onyomi": [
+            "はん",
+            "ばん"
+        ],
+        "kunyomi": [
+            "わか.る"
+        ],
+        "meaning": [
+            "Judgement",
+            "Signature",
+            "Stamp",
+            "Seal"
+        ]
+    },
+    "244": {
+        "onyomi": [
+            "せい"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "System",
+            "Law",
+            "Rule"
+        ]
+    },
+    "245": {
+        "onyomi": [
+            "む"
+        ],
+        "kunyomi": [
+            "つと.める"
+        ],
+        "meaning": [
+            "Task",
+            "Duties"
+        ]
+    },
+    "246": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Assets",
+            "Resources",
+            "Capital",
+            "Funds",
+            "Data",
+            "Be Conducive To",
+            "Contribute To"
+        ]
+    },
+    "247": {
+        "onyomi": [
+            "けん",
+            "ごん"
+        ],
+        "kunyomi": [
+            "おもり",
+            "かり",
+            "はか.る"
+        ],
+        "meaning": [
+            "Authority",
+            "Power",
+            "Rights"
+        ]
+    },
+    "248": {
+        "onyomi": [
+            "けん"
+        ],
+        "kunyomi": [
+            "くだん"
+        ],
+        "meaning": [
+            "Affair",
+            "Case",
+            "Matter",
+            "Item"
+        ]
+    },
+    "249": {
+        "onyomi": [
+            "だん"
+        ],
+        "kunyomi": [
+            "た.つ",
+            "ことわ.る",
+            "さだ.める"
+        ],
+        "meaning": [
+            "Severance",
+            "Decline",
+            "Refuse",
+            "Apologize",
+            "Warn",
+            "Dismiss",
+            "Prohibit",
+            "Decision",
+            "Judgement",
+            "Cutting"
+        ]
+    },
+    "250": {
+        "onyomi": [
+            "にん"
+        ],
+        "kunyomi": [
+            "まか.せる",
+            "まか.す"
+        ],
+        "meaning": [
+            "Responsibility",
+            "Duty",
+            "Term",
+            "Entrust To",
+            "Appoint"
+        ]
+    },
+    "251": {
+        "onyomi": [
+            "せき"
+        ],
+        "kunyomi": [
+            "せ.める"
+        ],
+        "meaning": [
+            "Blame",
+            "Condemn",
+            "Censure"
+        ]
+    },
+    "252": {
+        "onyomi": [
+            "ぞう"
+        ],
+        "kunyomi": [
+            "ま.す",
+            "ま.し",
+            "ふ.える",
+            "ふ.やす"
+        ],
+        "meaning": [
+            "Increase",
+            "Add",
+            "Augment",
+            "Gain",
+            "Promote"
+        ]
+    },
+    "253": {
+        "onyomi": [
+            "かい",
+            "げ"
+        ],
+        "kunyomi": [
+            "と.く",
+            "と.かす",
+            "と.ける",
+            "ほど.く",
+            "ほど.ける",
+            "わか.る",
+            "さと.る"
+        ],
+        "meaning": [
+            "Unravel",
+            "Notes",
+            "Key",
+            "Explanation",
+            "Understanding",
+            "Untie",
+            "Undo",
+            "Solve",
+            "Answer",
+            "Cancel",
+            "Absolve",
+            "Explain",
+            "Minute"
+        ]
+    },
+    "254": {
+        "onyomi": [
+            "さい"
+        ],
+        "kunyomi": [
+            "きわ",
+            "-ぎわ"
+        ],
+        "meaning": [
+            "Occasion",
+            "Side",
+            "Edge",
+            "Verge",
+            "Dangerous",
+            "Adventurous",
+            "Indecent",
+            "Time",
+            "When"
+        ]
+    },
+    "255": {
+        "onyomi": [
+            "にん"
+        ],
+        "kunyomi": [
+            "みと.める",
+            "したた.める"
+        ],
+        "meaning": [
+            "Acknowledge",
+            "Witness",
+            "Discern",
+            "Recognize",
+            "Appreciate",
+            "Believe"
+        ]
+    },
+    "256": {
+        "onyomi": [
+            "か"
+        ],
+        "kunyomi": [
+            "す.ぎる",
+            "-す.ぎる",
+            "-す.ぎ",
+            "す.ごす",
+            "あやま.つ",
+            "あやま.ち",
+            "よ.ぎる"
+        ],
+        "meaning": [
+            "Overdo",
+            "Exceed",
+            "Go Beyond",
+            "Error"
+        ]
+    },
+    "257": {
+        "onyomi": [
+            "しん"
+        ],
+        "kunyomi": [
+            "ね.る",
+            "ね.かす",
+            "い.ぬ",
+            "みたまや",
+            "や.める"
+        ],
+        "meaning": [
+            "Lie Down",
+            "Sleep",
+            "Rest",
+            "Bed",
+            "Remain Unsold"
+        ]
+    },
+    "258": {
+        "onyomi": [
+            "ち"
+        ],
+        "kunyomi": [
+            "お.く",
+            "-お.き"
+        ],
+        "meaning": [
+            "Placement",
+            "Put",
+            "Set",
+            "Deposit",
+            "Leave Behind",
+            "Keep",
+            "Employ",
+            "Pawn"
+        ]
+    },
+    "259": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "つい.やす",
+            "つい.える"
+        ],
+        "meaning": [
+            "Expense",
+            "Cost",
+            "Spend",
+            "Consume",
+            "Waste"
+        ]
+    },
+    "260": {
+        "onyomi": [
+            "じ",
+            "し"
+        ],
+        "kunyomi": [
+            "しめ.す"
+        ],
+        "meaning": [
+            "Show",
+            "Indicate",
+            "Point Out",
+            "Express",
+            "Display"
+        ]
+    },
+    "261": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [
+            "み.る",
+            "しめ.す"
+        ],
+        "meaning": [
+            "Outlook",
+            "Look",
+            "Appearance",
+            "Condition",
+            "View"
+        ]
+    },
+    "262": {
+        "onyomi": [
+            "ち"
+        ],
+        "kunyomi": [
+            "ね",
+            "あたい"
+        ],
+        "meaning": [
+            "Price",
+            "Cost",
+            "Value"
+        ]
+    },
+    "263": {
+        "onyomi": [
+            "きゅう"
+        ],
+        "kunyomi": [
+            "す.う"
+        ],
+        "meaning": [
+            "Suck",
+            "Imbibe",
+            "Inhale",
+            "Sip"
+        ]
+    },
+    "264": {
+        "onyomi": [
+            "じょう"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Status Quo",
+            "Conditions",
+            "Circumstances",
+            "Form",
+            "Appearance"
+        ]
+    },
+    "265": {
+        "onyomi": [
+            "しゅう"
+        ],
+        "kunyomi": [
+            "おさ.める",
+            "おさ.まる"
+        ],
+        "meaning": [
+            "Income",
+            "Obtain",
+            "Reap",
+            "Pay",
+            "Supply",
+            "Store"
+        ]
+    },
+    "266": {
+        "onyomi": [
+            "しょく",
+            "そく"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Post",
+            "Employment",
+            "Work"
+        ]
+    },
+    "267": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Standard",
+            "Measure"
+        ]
+    },
+    "268": {
+        "onyomi": [
+            "かつ"
+        ],
+        "kunyomi": [
+            "わ.る",
+            "わり",
+            "わ.り",
+            "わ.れる",
+            "さ.く"
+        ],
+        "meaning": [
+            "Proportion",
+            "Comparatively",
+            "Divide",
+            "Cut",
+            "Separate",
+            "Split"
+        ]
+    },
+    "269": {
+        "onyomi": [
+            "えん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Performance",
+            "Act",
+            "Play",
+            "Render",
+            "Stage"
+        ]
+    },
+    "270": {
+        "onyomi": [
+            "し"
+        ],
+        "kunyomi": [
+            "いくさ"
+        ],
+        "meaning": [
+            "Expert",
+            "Teacher",
+            "Master",
+            "Model",
+            "Exemplar",
+            "Army (incl. Counter)",
+            "War"
+        ]
+    },
+    "271": {
+        "onyomi": [
+            "び"
+        ],
+        "kunyomi": [
+            "そな.える",
+            "そな.わる",
+            "つぶさ.に"
+        ],
+        "meaning": [
+            "Equip",
+            "Provision",
+            "Preparation"
+        ]
+    },
+    "272": {
+        "onyomi": [
+            "ゆう",
+            "う"
+        ],
+        "kunyomi": [
+            "やさ.しい",
+            "すぐ.れる",
+            "まさ.る"
+        ],
+        "meaning": [
+            "Tenderness",
+            "Excel",
+            "Surpass",
+            "Actor",
+            "Superiority",
+            "Gentleness"
+        ]
+    },
+    "273": {
+        "onyomi": [
+            "たく"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Home",
+            "House",
+            "Residence",
+            "Our House",
+            "My Husband"
+        ]
+    },
+    "274": {
+        "onyomi": [
+            "げん"
+        ],
+        "kunyomi": [
+            "あらわ.れる",
+            "あらわ.す",
+            "うつつ",
+            "うつ.つ"
+        ],
+        "meaning": [
+            "Present",
+            "Existing",
+            "Actual"
+        ]
+    },
+    "275": {
+        "onyomi": [
+            "こ"
+        ],
+        "kunyomi": [
+            "よ.ぶ"
+        ],
+        "meaning": [
+            "Call",
+            "Call Out To",
+            "Invite"
+        ]
+    },
+    "276": {
+        "onyomi": [
+            "い"
+        ],
+        "kunyomi": [
+            "ちが.う",
+            "ちが.い",
+            "ちが.える",
+            "-ちが.える",
+            "たが.う",
+            "たが.える"
+        ],
+        "meaning": [
+            "Difference",
+            "Differ"
+        ]
+    },
+    "277": {
+        "onyomi": [
+            "さ"
+        ],
+        "kunyomi": [
+            "さ.す",
+            "さ.し"
+        ],
+        "meaning": [
+            "Distinction",
+            "Difference",
+            "Variation",
+            "Discrepancy",
+            "Margin",
+            "Balance"
+        ]
+    },
+    "278": {
+        "onyomi": [
+            "きょう",
+            "く",
+            "くう",
+            "ぐ"
+        ],
+        "kunyomi": [
+            "そな.える",
+            "とも",
+            "-ども"
+        ],
+        "meaning": [
+            "Submit",
+            "Offer",
+            "Present",
+            "Serve (meal)",
+            "Accompany"
+        ]
+    },
+    "279": {
+        "onyomi": [
+            "げん"
+        ],
+        "kunyomi": [
+            "かぎ.る",
+            "かぎ.り",
+            "-かぎ.り"
+        ],
+        "meaning": [
+            "Limit",
+            "Restrict",
+            "To Best Of Ability"
+        ]
+    },
+    "280": {
+        "onyomi": [
+            "よ"
+        ],
+        "kunyomi": [
+            "あた.える",
+            "あずか.る",
+            "くみ.する",
+            "ともに"
+        ],
+        "meaning": [
+            "Bestow",
+            "Participate In",
+            "Give",
+            "Award",
+            "Impart",
+            "Provide",
+            "Cause",
+            "Gift",
+            "Godsend"
+        ]
+    },
+    "281": {
+        "onyomi": [
+            "と"
+        ],
+        "kunyomi": [
+            "わた.る",
+            "-わた.る",
+            "わた.す"
+        ],
+        "meaning": [
+            "Transit",
+            "Ford",
+            "Ferry",
+            "Cross",
+            "Import",
+            "Deliver",
+            "Diameter",
+            "Migrate"
+        ]
+    },
+    "282": {
+        "onyomi": [
+            "けい"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Scenery",
+            "View"
+        ]
+    },
+    "283": {
+        "onyomi": [
+            "ばつ",
+            "はつ",
+            "はい"
+        ],
+        "kunyomi": [
+            "ぬ.く",
+            "-ぬ.く",
+            "ぬ.き",
+            "ぬ.ける",
+            "ぬ.かす",
+            "ぬ.かる"
+        ],
+        "meaning": [
+            "Slip Out",
+            "Extract",
+            "Pull Out",
+            "Pilfer",
+            "Quote",
+            "Remove",
+            "Omit"
+        ]
+    },
+    "284": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "そうろう"
+        ],
+        "meaning": [
+            "Climate",
+            "Season",
+            "Weather",
+            "Wait For",
+            "Expect"
+        ]
+    },
+    "285": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "かま.える",
+            "かま.う"
+        ],
+        "meaning": [
+            "Posture",
+            "Build",
+            "Pretend"
+        ]
+    },
+    "286": {
+        "onyomi": [
+            "ほ"
+        ],
+        "kunyomi": [
+            "と.らえる",
+            "と.らわれる",
+            "と.る",
+            "とら.える",
+            "とら.われる",
+            "つか.まえる",
+            "つか.まる"
+        ],
+        "meaning": [
+            "Catch",
+            "Capture"
+        ]
+    },
+    "287": {
+        "onyomi": [
+            "かん"
+        ],
+        "kunyomi": [
+            "な.れる",
+            "な.らす"
+        ],
+        "meaning": [
+            "Accustomed",
+            "Get Used To",
+            "Become Experienced"
+        ]
+    },
+    "288": {
+        "onyomi": [
+            "まん",
+            "ばん"
+        ],
+        "kunyomi": [
+            "み.ちる",
+            "み.つ",
+            "み.たす"
+        ],
+        "meaning": [
+            "Full",
+            "Fullness",
+            "Enough",
+            "Satisfy"
+        ]
+    },
+    "289": {
+        "onyomi": [
+            "かい",
+            "けい"
+        ],
+        "kunyomi": [
+            "か.ける",
+            "-か.ける",
+            "か.け",
+            "-か.け",
+            "-が.け",
+            "か.かる",
+            "-か.かる",
+            "-が.かる",
+            "か.かり",
+            "-が.かり",
+            "かかり",
+            "-がかり"
+        ],
+        "meaning": [
+            "Hang",
+            "Suspend",
+            "Depend",
+            "Arrive At",
+            "Tax",
+            "Pour"
+        ]
+    },
+    "290": {
+        "onyomi": [
+            "きょ",
+            "こ"
+        ],
+        "kunyomi": [
+            "い.る",
+            "-い",
+            "お.る"
+        ],
+        "meaning": [
+            "Reside",
+            "To Be",
+            "Exist",
+            "Live With"
+        ]
+    },
+    "291": {
+        "onyomi": [
+            "とつ",
+            "か"
+        ],
+        "kunyomi": [
+            "つ.く"
+        ],
+        "meaning": [
+            "Stab",
+            "Protruding",
+            "Thrust",
+            "Pierce",
+            "Prick",
+            "Collision",
+            "Sudden"
+        ]
+    },
+    "292": {
+        "onyomi": [
+            "しょう"
+        ],
+        "kunyomi": [
+            "まね.く"
+        ],
+        "meaning": [
+            "Beckon",
+            "Invite",
+            "Summon",
+            "Engage"
+        ]
+    },
+    "293": {
+        "onyomi": [
+            "だん",
+            "たん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Grade",
+            "Steps",
+            "Stairs"
+        ]
+    },
+    "294": {
+        "onyomi": [
+            "ふく"
+        ],
+        "kunyomi": [
+            "はら"
+        ],
+        "meaning": [
+            "Abdomen",
+            "Belly",
+            "Stomach"
+        ]
+    },
+    "295": {
+        "onyomi": [
+            "つう"
+        ],
+        "kunyomi": [
+            "いた.い",
+            "いた.む",
+            "いた.ましい",
+            "いた.める"
+        ],
+        "meaning": [
+            "Pain",
+            "Hurt",
+            "Damage",
+            "Bruise"
+        ]
+    },
+    "296": {
+        "onyomi": [
+            "たい"
+        ],
+        "kunyomi": [
+            "しりぞ.く",
+            "しりぞ.ける",
+            "ひ.く",
+            "の.く",
+            "の.ける",
+            "ど.く"
+        ],
+        "meaning": [
+            "Retreat",
+            "Withdraw",
+            "Retire",
+            "Resign",
+            "Repel",
+            "Expel",
+            "Reject"
+        ]
+    },
+    "297": {
+        "onyomi": [
+            "めい"
+        ],
+        "kunyomi": [
+            "まよ.う"
+        ],
+        "meaning": [
+            "Astray",
+            "Be Perplexed",
+            "In Doubt",
+            "Lost",
+            "Err",
+            "Illusion"
+        ]
+    },
+    "298": {
+        "onyomi": [
+            "ほう"
+        ],
+        "kunyomi": [
+            "おとず.れる",
+            "たず.ねる",
+            "と.う"
+        ],
+        "meaning": [
+            "Call On",
+            "Visit",
+            "Look Up",
+            "Offer Sympathy"
+        ]
+    },
+    "299": {
+        "onyomi": [
+            "ど",
+            "ぬ"
+        ],
+        "kunyomi": [
+            "いか.る",
+            "おこ.る"
+        ],
+        "meaning": [
+            "Angry",
+            "Be Offended"
+        ]
+    },
+    "300": {
+        "onyomi": [
+            "みん"
+        ],
+        "kunyomi": [
+            "ねむ.る",
+            "ねむ.い"
+        ],
+        "meaning": [
+            "Sleep",
+            "Die",
+            "Sleepy"
+        ]
+    },
+    "301": {
+        "onyomi": [
+            "か"
+        ],
+        "kunyomi": [
+            "くつ"
+        ],
+        "meaning": [
+            "Shoes"
+        ]
+    },
+    "302": {
+        "onyomi": [
+            "と"
+        ],
+        "kunyomi": [
+            "みち"
+        ],
+        "meaning": [
+            "Route",
+            "Way",
+            "Road"
+        ]
+    },
+    "303": {
+        "onyomi": [
+            "きゅう"
+        ],
+        "kunyomi": [
+            "たま.う",
+            "たも.う",
+            "-たま.え"
+        ],
+        "meaning": [
+            "Salary",
+            "Wage",
+            "Gift",
+            "Allow",
+            "Grant",
+            "Bestow On"
+        ]
+    },
+    "304": {
+        "onyomi": [
+            "れい"
+        ],
+        "kunyomi": [
+            "つめ.たい",
+            "ひ.える",
+            "ひ.や",
+            "ひ.ややか",
+            "ひ.やす",
+            "ひ.やかす",
+            "さ.める",
+            "さ.ます"
+        ],
+        "meaning": [
+            "Cool",
+            "Cold (beer, Person)",
+            "Chill"
+        ]
+    },
+    "305": {
+        "onyomi": [
+            "しょ"
+        ],
+        "kunyomi": [
+            "ところ",
+            "-こ",
+            "お.る"
+        ],
+        "meaning": [
+            "Dispose",
+            "Manage",
+            "Deal With",
+            "Sentence",
+            "Condemn",
+            "Act",
+            "Behave",
+            "Place"
+        ]
+    },
+    "306": {
+        "onyomi": [
+            "ふ"
+        ],
+        "kunyomi": [
+            "よめ"
+        ],
+        "meaning": [
+            "Lady",
+            "Woman",
+            "Wife",
+            "Bride"
+        ]
+    },
+    "307": {
+        "onyomi": [
+            "てい"
+        ],
+        "kunyomi": [
+            "ほど",
+            "-ほど"
+        ],
+        "meaning": [
+            "Extent",
+            "Degree",
+            "Law",
+            "Formula",
+            "Distance",
+            "Limits",
+            "Amount"
+        ]
+    },
+    "308": {
+        "onyomi": [
+            "せい",
+            "しょう"
+        ],
+        "kunyomi": [
+            "しら.げる",
+            "くわ.しい"
+        ],
+        "meaning": [
+            "Refined",
+            "Ghost",
+            "Fairy",
+            "Energy",
+            "Vitality",
+            "Semen",
+            "Excellence",
+            "Purity",
+            "Skill"
+        ]
+    },
+    "309": {
+        "onyomi": [
+            "ぜつ"
+        ],
+        "kunyomi": [
+            "た.える",
+            "た.やす",
+            "た.つ"
+        ],
+        "meaning": [
+            "Discontinue",
+            "Sever",
+            "Cut Off",
+            "Abstain",
+            "Interrupt",
+            "Suppress",
+            "Be Beyond",
+            "Without Match",
+            "Peerless",
+            "Unparalleled"
+        ]
+    },
+    "310": {
+        "onyomi": [
+            "はい"
+        ],
+        "kunyomi": [
+            "さかずき"
+        ],
+        "meaning": [
+            "Counter For Cupfuls",
+            "Wine Glass",
+            "Glass",
+            "Toast"
+        ]
+    },
+    "311": {
+        "onyomi": [
+            "せき"
+        ],
+        "kunyomi": [
+            "つ.む",
+            "-づ.み",
+            "つ.もる",
+            "つ.もり"
+        ],
+        "meaning": [
+            "Volume",
+            "Product (x*y)",
+            "Acreage",
+            "Contents",
+            "Pile Up",
+            "Stack",
+            "Load",
+            "Amass"
+        ]
+    },
+    "312": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "よ.る",
+            "-よ.り",
+            "よ.せる"
+        ],
+        "meaning": [
+            "Draw Near",
+            "Stop In",
+            "Bring Near",
+            "Gather",
+            "Collect",
+            "Send",
+            "Forward"
+        ]
+    },
+    "313": {
+        "onyomi": [
+            "じょう"
+        ],
+        "kunyomi": [
+            "むすめ",
+            "こ"
+        ],
+        "meaning": [
+            "Daughter",
+            "Girl"
+        ]
+    },
+    "314": {
+        "onyomi": [
+            "ふ",
+            "ほ"
+        ],
+        "kunyomi": [
+            "こわ.い",
+            "こわ.がる",
+            "お.じる",
+            "おそ.れる"
+        ],
+        "meaning": [
+            "Dreadful",
+            "Be Frightened",
+            "Fearful"
+        ]
+    },
+    "315": {
+        "onyomi": [
+            "きょう"
+        ],
+        "kunyomi": [
+            "おそ.れる",
+            "おそ.る",
+            "おそ.ろしい",
+            "こわ.い",
+            "こわ.がる"
+        ],
+        "meaning": [
+            "Fear",
+            "Dread",
+            "Awe"
+        ]
+    },
+    "316": {
+        "onyomi": [
+            "こん"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Marriage"
+        ]
+    },
+    "317": {
+        "onyomi": [
+            "ゆう",
+            "ゆ"
+        ],
+        "kunyomi": [
+            "あそ.ぶ",
+            "あそ.ばす"
+        ],
+        "meaning": [
+            "Play"
+        ]
+    },
+    "318": {
+        "onyomi": [
+            "ひん",
+            "びん"
+        ],
+        "kunyomi": [
+            "まず.しい"
+        ],
+        "meaning": [
+            "Poverty",
+            "Poor"
+        ]
+    },
+    "319": {
+        "onyomi": [
+            "てき"
+        ],
+        "kunyomi": [
+            "かな.う"
+        ],
+        "meaning": [
+            "Suitable",
+            "Occasional",
+            "Rare",
+            "Qualified",
+            "Capable"
+        ]
+    },
+    "320": {
+        "onyomi": [
+            "おう"
+        ],
+        "kunyomi": [
+            "お.す",
+            "お.し-",
+            "お.っ-",
+            "お.さえる",
+            "おさ.える"
+        ],
+        "meaning": [
+            "Push",
+            "Stop",
+            "Check",
+            "Subdue",
+            "Attach",
+            "Seize",
+            "Weight",
+            "Shove",
+            "Press",
+            "Seal",
+            "Do In Spite Of"
+        ]
+    },
+    "321": {
+        "onyomi": [
+            "こう"
+        ],
+        "kunyomi": [
+            "さら",
+            "さら.に",
+            "ふ.ける",
+            "ふ.かす"
+        ],
+        "meaning": [
+            "Grow Late",
+            "Night Watch",
+            "Sit Up Late",
+            "Of Course",
+            "Renew",
+            "Renovate",
+            "Again",
+            "More And More",
+            "Further"
+        ]
+    },
+    "322": {
+        "onyomi": [
+            "ふ"
+        ],
+        "kunyomi": [
+            "う.く",
+            "う.かれる",
+            "う.かぶ",
+            "む",
+            "う.かべる"
+        ],
+        "meaning": [
+            "Floating",
+            "Float",
+            "Rise To Surface"
+        ]
+    },
+    "323": {
+        "onyomi": [
+            "えつ",
+            "おつ"
+        ],
+        "kunyomi": [
+            "こ.す",
+            "-こ.す",
+            "-ご.し",
+            "こ.える",
+            "-ご.え"
+        ],
+        "meaning": [
+            "Surpass",
+            "Cross Over",
+            "Move To",
+            "Exceed",
+            "Vietnam"
+        ]
+    },
+    "324": {
+        "onyomi": [
+            "はい"
+        ],
+        "kunyomi": [
+            "せ",
+            "せい",
+            "そむ.く",
+            "そむ.ける"
+        ],
+        "meaning": [
+            "Stature",
+            "Height",
+            "Back",
+            "Behind",
+            "Disobey",
+            "Defy",
+            "Go Back On",
+            "Rebel"
+        ]
+    },
+    "325": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "ぬす.む",
+            "ぬす.み"
+        ],
+        "meaning": [
+            "Steal",
+            "Rob",
+            "Pilfer"
+        ]
+    },
+    "326": {
+        "onyomi": [
+            "じょ",
+            "じ"
+        ],
+        "kunyomi": [
+            "のぞ.く",
+            "-よ.け"
+        ],
+        "meaning": [
+            "Exclude",
+            "Division (x/3)",
+            "Remove",
+            "Abolish",
+            "Cancel",
+            "Except"
+        ]
+    },
+    "327": {
+        "onyomi": [
+            "き"
+        ],
+        "kunyomi": [
+            "いく-",
+            "いく.つ",
+            "いく.ら"
+        ],
+        "meaning": [
+            "How Many",
+            "How Much",
+            "How Far",
+            "How Long",
+            "Some",
+            "Several"
+        ]
+    },
+    "328": {
+        "onyomi": [
+            "さん"
+        ],
+        "kunyomi": [
+            "ち.る",
+            "ち.らす",
+            "-ち.らす",
+            "ち.らかす",
+            "ち.らかる",
+            "ち.らばる",
+            "ばら",
+            "ばら.ける"
+        ],
+        "meaning": [
+            "Scatter",
+            "Disperse",
+            "Spend",
+            "Squander"
+        ]
+    },
+    "329": {
+        "onyomi": [
+            "じ"
+        ],
+        "kunyomi": [
+            "に.る",
+            "ひ.る"
+        ],
+        "meaning": [
+            "Becoming",
+            "Resemble",
+            "Counterfeit",
+            "Imitate",
+            "Suitable"
+        ]
+    },
+    "330": {
+        "onyomi": [
+            "ふ",
+            "ふう"
+        ],
+        "kunyomi": [
+            "と.む",
+            "とみ"
+        ],
+        "meaning": [
+            "Wealth",
+            "Enrich",
+            "Abundant"
+        ]
+    },
+    "331": {
+        "onyomi": [
+            "たん"
+        ],
+        "kunyomi": [
+            "さぐ.る",
+            "さが.す"
+        ],
+        "meaning": [
+            "Grope",
+            "Search",
+            "Look For"
+        ]
+    },
+    "332": {
+        "onyomi": [
+            "げい"
+        ],
+        "kunyomi": [
+            "むか.える"
+        ],
+        "meaning": [
+            "Welcome",
+            "Meet",
+            "Greet"
+        ]
+    },
+    "333": {
+        "onyomi": [
+            "そ"
+        ],
+        "kunyomi": [],
+        "meaning": [
+            "Ancestor",
+            "Pioneer",
+            "Founder"
+        ]
+    },
+    "334": {
+        "onyomi": [
+            "ざつ",
+            "ぞう"
+        ],
+        "kunyomi": [
+            "まじ.える",
+            "まじ.る"
+        ],
+        "meaning": [
+            "Miscellaneous"
+        ]
+    },
+    "335": {
+        "onyomi": [
+            "さん"
+        ],
+        "kunyomi": [
+            "たす.ける",
+            "たた.える"
+        ],
+        "meaning": [
+            "Approve",
+            "Praise",
+            "Title Or Inscription On Picture",
+            "Assist",
+            "Agree With"
+        ]
+    },
+    "336": {
+        "onyomi": [],
+        "kunyomi": [
+            "-こ.む",
+            "こ.む",
+            "こ.み",
+            "-こ.み",
+            "こ.める"
+        ],
+        "meaning": [
+            "Crowded",
+            "Mixture",
+            "In Bulk",
+            "Included",
+            "(kokuji)"
+        ]
+    },
+    "337": {
+        "onyomi": [
+            "よく"
+        ],
+        "kunyomi": [
+            "ほっ.する",
+            "ほ.しい"
+        ],
+        "meaning": [
+            "Longing",
+            "Covetousness",
+            "Greed",
+            "Passion",
+            "Desire",
+            "Craving"
+        ]
+    },
+    "338": {
+        "onyomi": [
+            "へい"
+        ],
+        "kunyomi": [
+            "と.じる",
+            "と.ざす",
+            "し.める",
+            "し.まる",
+            "た.てる"
+        ],
+        "meaning": [
+            "Closed",
+            "Shut"
+        ]
+    },
+    "339": {
+        "onyomi": [
+            "そう",
+            "す"
+        ],
+        "kunyomi": [
+            "まど",
+            "てんまど",
+            "けむだし"
+        ],
+        "meaning": [
+            "Window",
+            "Pane"
+        ]
+    },
+    "340": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "いな",
+            "いや"
+        ],
+        "meaning": [
+            "Negate",
+            "No",
+            "Noes",
+            "Refuse",
+            "Decline",
+            "Deny"
+        ]
+    },
+    "341": {
+        "onyomi": [
+            "ぼ"
+        ],
+        "kunyomi": [
+            "く.れる",
+            "く.らす"
+        ],
+        "meaning": [
+            "Evening",
+            "Twilight",
+            "Season's End",
+            "Livelihood",
+            "Make A Living",
+            "Spend Time"
+        ]
+    },
+    "342": {
+        "onyomi": [
+            "ご"
+        ],
+        "kunyomi": [
+            "あやま.る",
+            "-あやま.る"
+        ],
+        "meaning": [
+            "Mistake",
+            "Err",
+            "Do Wrong",
+            "Mislead"
+        ]
+    },
+    "343": {
+        "onyomi": [
+            "こう",
+            "ご"
+        ],
+        "kunyomi": [
+            "お.りる",
+            "お.ろす",
+            "ふ.る",
+            "ふ.り",
+            "くだ.る",
+            "くだ.す"
+        ],
+        "meaning": [
+            "Descend",
+            "Precipitate",
+            "Fall",
+            "Surrender"
+        ]
+    },
+    "344": {
+        "onyomi": [
+            "きん",
+            "ごん"
+        ],
+        "kunyomi": [
+            "つと.める",
+            "-づと.め",
+            "つと.まる",
+            "いそ.しむ"
+        ],
+        "meaning": [
+            "Diligence",
+            "Become Employed",
+            "Serve"
+        ]
+    },
+    "345": {
+        "onyomi": [
+            "こく"
+        ],
+        "kunyomi": [
+            "きざ.む",
+            "きざ.み"
+        ],
+        "meaning": [
+            "Engrave",
+            "Cut Fine",
+            "Chop",
+            "Hash",
+            "Mince",
+            "Time",
+            "Carving"
+        ]
+    },
+    "346": {
+        "onyomi": [
+            "ち"
+        ],
+        "kunyomi": [
+            "おく.れる",
+            "おく.らす",
+            "おそ.い"
+        ],
+        "meaning": [
+            "Slow",
+            "Late",
+            "Back",
+            "Later"
+        ]
+    },
+    "347": {
+        "onyomi": [
+            "は"
+        ],
+        "kunyomi": [
+            "やぶ.る",
+            "やぶ.れる",
+            "わ.れる"
+        ],
+        "meaning": [
+            "Rend",
+            "Rip",
+            "Tear",
+            "Break",
+            "Destroy",
+            "Defeat",
+            "Frustrate"
+        ]
+    },
+    "348": {
+        "onyomi": [
+            "ご"
+        ],
+        "kunyomi": [
+            "たが.い",
+            "かたみ.に"
+        ],
+        "meaning": [
+            "Mutually",
+            "Reciprocally",
+            "Together"
+        ]
+    },
+    "349": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "かれ",
+            "かの",
+            "か.の"
+        ],
+        "meaning": [
+            "He",
+            "That",
+            "The"
+        ]
+    },
+    "350": {
+        "onyomi": [
+            "ち"
+        ],
+        "kunyomi": [
+            "は.じる",
+            "はじ",
+            "は.じらう",
+            "は.ずかしい"
+        ],
+        "meaning": [
+            "Shame",
+            "Dishonor"
+        ]
+    },
+    "351": {
+        "onyomi": [
+            "ふつ",
+            "ひつ",
+            "ほつ"
+        ],
+        "kunyomi": [
+            "はら.う",
+            "-はら.い",
+            "-ばら.い"
+        ],
+        "meaning": [
+            "Pay",
+            "Clear Out",
+            "Prune",
+            "Banish",
+            "Dispose Of"
+        ]
+    },
+    "352": {
+        "onyomi": [
+            "ぶ"
+        ],
+        "kunyomi": [
+            "ま.う",
+            "-ま.う",
+            "まい"
+        ],
+        "meaning": [
+            "Dance",
+            "Flit",
+            "Circle",
+            "Wheel"
+        ]
+    },
+    "353": {
+        "onyomi": [
+            "らい"
+        ],
+        "kunyomi": [
+            "たの.む",
+            "たの.もしい",
+            "たよ.る"
+        ],
+        "meaning": [
+            "Trust",
+            "Request"
+        ]
+    },
+    "354": {
+        "onyomi": [
+            "れい"
+        ],
+        "kunyomi": [
+            "もど.す",
+            "もど.る"
+        ],
+        "meaning": [
+            "Re-",
+            "Return",
+            "Revert",
+            "Resume",
+            "Restore",
+            "Go Backwards"
+        ]
+    },
+    "355": {
+        "onyomi": [
+            "ほう"
+        ],
+        "kunyomi": [
+            "だ.く",
+            "いだ.く",
+            "かか.える"
+        ],
+        "meaning": [
+            "Embrace",
+            "Hug",
+            "Hold In Arms"
+        ]
+    },
+    "356": {
+        "onyomi": [
+            "しょ",
+            "ちょ"
+        ],
+        "kunyomi": [
+            "お",
+            "いとぐち"
+        ],
+        "meaning": [
+            "Thong",
+            "Beginning",
+            "Inception",
+            "End",
+            "Cord",
+            "Strap",
+            "Mental Or Emotional State"
+        ]
+    },
+    "357": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "に.げる",
+            "に.がす",
+            "のが.す",
+            "のが.れる"
+        ],
+        "meaning": [
+            "Escape",
+            "Flee",
+            "Shirk",
+            "Evade",
+            "Set Free"
+        ]
+    },
+    "358": {
+        "onyomi": [
+            "ぎょ",
+            "ご"
+        ],
+        "kunyomi": [
+            "おん-",
+            "お-",
+            "み-"
+        ],
+        "meaning": [
+            "Honorable",
+            "Manipulate",
+            "Govern"
+        ]
+    },
+    "359": {
+        "onyomi": [
+            "すい"
+        ],
+        "kunyomi": [
+            "ふ.く"
+        ],
+        "meaning": [
+            "Blow",
+            "Breathe",
+            "Puff",
+            "Emit",
+            "Smoke"
+        ]
+    },
+    "360": {
+        "onyomi": [
+            "とう"
+        ],
+        "kunyomi": [
+            "いた.る"
+        ],
+        "meaning": [
+            "Arrival",
+            "Proceed",
+            "Reach",
+            "Attain",
+            "Result In"
+        ]
+    },
+    "361": {
+        "onyomi": [
+            "はつ"
+        ],
+        "kunyomi": [
+            "かみ"
+        ],
+        "meaning": [
+            "Hair Of The Head"
+        ]
+    },
+    "362": {
+        "onyomi": [
+            "ひ"
+        ],
+        "kunyomi": [
+            "つか.れる",
+            "-づか.れ",
+            "つか.らす"
+        ],
+        "meaning": [
+            "Exhausted",
+            "Tire",
+            "Weary"
+        ]
+    },
+    "363": {
+        "onyomi": [
+            "さい",
+            "せい"
+        ],
+        "kunyomi": [
+            "とし",
+            "とせ",
+            "よわい"
+        ],
+        "meaning": [
+            "Year-end",
+            "Age",
+            "Occasion",
+            "Opportunity"
+        ]
+    },
+    "364": {
+        "onyomi": [
+            "ぐう"
+        ],
+        "kunyomi": [
+            "たま"
+        ],
+        "meaning": [
+            "Accidentally",
+            "Even Number",
+            "Couple",
+            "Man & Wife",
+            "Same Kind"
+        ]
+    },
+    "365": {
+        "onyomi": [
+            "い"
+        ],
+        "kunyomi": [
+            "えら.い"
+        ],
+        "meaning": [
+            "Admirable",
+            "Greatness",
+            "Remarkable",
+            "Conceited",
+            "Famous",
+            "Excellent"
+        ]
+    },
+    "366": {
+        "onyomi": [
+            "ちょう"
+        ],
+        "kunyomi": [
+            "いただ.く",
+            "いただき"
+        ],
+        "meaning": [
+            "Place On The Head",
+            "Receive",
+            "Top Of Head",
+            "Top",
+            "Summit",
+            "Peak"
+        ]
+    }
+}
