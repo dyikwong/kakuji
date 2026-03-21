@@ -3,11 +3,11 @@ import Canvas from './Canvas';
 import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
 
-import n5Data from '../data/n5-kanji.json';
-import n4Data from '../data/n4-kanji.json';
-import n3Data from '../data/n3-kanji.json';
-import n2Data from '../data/n2-kanji.json';
-import n1Data from '../data/n1-kanji.json';
+import n5Data from '../data/kanji-n5.json';
+import n4Data from '../data/kanji-n4.json';
+import n3Data from '../data/kanji-n3.json';
+import n2Data from '../data/kanji-n2.json';
+import n1Data from '../data/kanji-n1.json';
 
 import './Quiz.css';
 
@@ -54,13 +54,18 @@ function Quiz(props) {
 
 	// When the user submits a writing, add it to the list of submitted writings and generate a new character to write
 	const submitWriting = (newWriting) => {
+		console.log(quizList[listIndex][characterListIndex]['meaning'].join(', '))
+		var onyomiFormatted = quizList[listIndex][characterListIndex]['onyomi'].join('、　');
+		var kunyomiFormatted = quizList[listIndex][characterListIndex]['kunyomi'].join('、　');
+		var meaningFormatted = quizList[listIndex][characterListIndex]['meaning'].join(', ');
+
 		usedCharacters.current[countUsedCharacter.current] = {
 			level: quizListNames[listIndex],
-			character: quizList[listIndex][characterListIndex]['character'],
-			onyomi: quizList[listIndex][characterListIndex]['onyomi'],
-			kunyomi: quizList[listIndex][characterListIndex]['kunyomi'],
-			meaning: quizList[listIndex][characterListIndex]['meaning']
-		};
+			character: quizList[listIndex][characterListIndex]['kanji'],
+			onyomi: quizList[listIndex][characterListIndex]['onyomi'].join('、　'),
+			kunyomi: quizList[listIndex][characterListIndex]['kunyomi'].join('、　'),
+			meaning: meaningFormatted
+		}
 		console.log(usedCharacters);
 		countUsedCharacter.current += 1;
 		setSubmittedWriting((submittedWriting) => [...submittedWriting, newWriting])
@@ -77,9 +82,9 @@ function Quiz(props) {
 			</Link>
 			<Timer time={timer} />
 			<div className='quiz-div'>
-				<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi']}</h2>
-				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi']}</h2>
-				<h2>definition: {quizList[listIndex][characterListIndex]['meaning']}</h2>
+				<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi'].join('、')}</h2>
+				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi'].join('、')}</h2>
+				<h2>definition: {quizList[listIndex][characterListIndex]['meaning'].join(', ')}</h2>
 				<h2>level: {quizListNames[listIndex]}</h2>
 				<Canvas getWriting={submitWriting} />
 			</div>
