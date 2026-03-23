@@ -77,7 +77,7 @@ function Quiz(props) {
 
 	return (
 		<div>
-			<Link to="/..">
+			<Link to="../">
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
 			<Timer time={timer} />
