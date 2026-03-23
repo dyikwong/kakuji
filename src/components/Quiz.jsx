@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import Canvas from 'Canvas.jsx';
+import Canvas from './Canvas.jsx';
 import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
 
