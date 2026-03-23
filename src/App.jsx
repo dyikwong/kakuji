@@ -4,11 +4,11 @@ import Start from './components/Start';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
+  // <Route path="/kanji" element={<Kanji />} />
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Start />} />
-        <Route path="/kanji" element={<Kanji />} />
+        <Route path="/kakuji" element={<Start />} />
       </Routes>
 
     </BrowserRouter>
