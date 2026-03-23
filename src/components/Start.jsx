@@ -50,7 +50,7 @@ function Start() {
 			return;
 		}
 		console.log(checkBoxes);
-		nav('/kanji', { state: { time: timeLimit, checked: checkBoxes } });
+		nav('/kakuji/kanji', { state: { time: timeLimit, checked: checkBoxes } });
 	}
 
 	const [canvasSize, setCanvasSize] = useState(1); // pass this variable to child
