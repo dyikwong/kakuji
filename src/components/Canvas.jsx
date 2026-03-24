@@ -54,6 +54,23 @@ function Canvas(props) {
 		canvas.addEventListener('mouseleave', (e) => {
 			isDrawing = false;
 		})
+
+		canvas.addEventListener('touchstart', (e) => {
+			e.preventDefault();
+			isDrawing = true;
+			ctx.beginPath();
+		})
+
+		canvas.addEventListener('touchmove', (e) => {
+			e.preventDefault();
+			draw();
+		})
+
+		// Event handler for touchend
+		canvas.addEventListener('touchend', (e) => {
+			e.preventDefault();
+			isDrawing = false;
+		});
 	})
 
 	const styling = {
