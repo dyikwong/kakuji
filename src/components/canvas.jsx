@@ -22,15 +22,18 @@ function Canvas(props) {
 
 	// Handle 
 	useEffect(() => {
+		// Set size of canvas and get its context
 		const canvas = canvasRef.current;
 		const ctx = canvas.getContext('2d');
 		canvas.width = 400;
 		canvas.height = 400;
+		// Clear anything on the canvas if there is anything
 		ctx.clearRect(0, 0, canvas.width, canvas.height);
 		ctx.lineWidth = 5;
 		ctx.lineCap = 'round';
 		let isDrawing = false;
 
+		// Draw function that creates lines
 		const draw = (e) => {
 			if (!isDrawing) {
 				return;
@@ -66,7 +69,6 @@ function Canvas(props) {
 			draw();
 		})
 
-		// Event handler for touchend
 		canvas.addEventListener('touchend', (e) => {
 			e.preventDefault();
 			isDrawing = false;

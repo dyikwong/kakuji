@@ -74,7 +74,7 @@ function Quiz(props) {
 
 	}
 
-
+	// Render the quiz component with the current character to write and the list of submitted writings
 	return (
 		<div>
 			<Link to="../">
@@ -86,6 +86,7 @@ function Quiz(props) {
 				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi'].join('、')}</h2>
 				<h2>definition: {quizList[listIndex][characterListIndex]['meaning'].join(', ')}</h2>
 				<h2>level: {quizListNames[listIndex]}</h2>
+				<br />
 				<Canvas getWriting={submitWriting} />
 			</div>
 			<img src={submittedWriting[submittedWriting.length - 1]} alt="Submitted writing" />
