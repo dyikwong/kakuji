@@ -100,8 +100,10 @@ function Quiz(props) {
 				<br />
 				<Canvas getWriting={submitWriting} />
 			</div>
-			<img src={submittedWriting[submittedWriting.length - 1]} alt="Submitted writing" />
-			<h2>Correct: {usedCharacters.length}</h2>
+			<Link to="../results" state={{ submittedWriting: submittedWriting, usedCharacters: usedCharacters.current }}>
+				<button className="btn btn-secondary">See Results</button>
+			</Link>
+
 		</div>
 	)
 }
