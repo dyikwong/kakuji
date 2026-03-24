@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Kanji from './Kanji'
 import Hiragana from './Hiragana'
 import Katakana from './Katakana'
+import Results from './components/Results';
 import Start from './components/Start';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
