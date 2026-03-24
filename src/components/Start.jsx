@@ -66,7 +66,7 @@ function Start() {
 	return (
 		<div className="start-container">
 			<div className="inside-start-container">
-				<h1>Options</h1>
+				<h1>Kanji Options</h1>
 				<div>
 					<h3>Select JLPT Levels:</h3>
 					{checkBoxes.map((box) => (

@@ -19,6 +19,17 @@ function Quiz(props) {
 	var quizListNames = [];
 	var usedIndexes = {};
 
+	if (checkedList == null) {
+		return (
+			<div>
+				<h1 style={{ textAlign: "center" }}>No levels selected</h1>
+				<Link to="../">
+					<button className="btn btn-secondary">Go back</button>
+				</Link>
+			</div>
+		)
+	}
+
 	// Generate the quiz list based on the checked checkboxes from the Start component
 	for (let i = 0; i < checkedList.length; i++) {
 		if (checkedList[i].checked) {
