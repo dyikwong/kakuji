@@ -88,7 +88,7 @@ function Quiz(props) {
 	// Render the quiz component with the current character to write and the list of submitted writings
 	return (
 		<div>
-			<Link to="../">
+			<Link to="../kakuji">
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
 			<Timer time={timer} />

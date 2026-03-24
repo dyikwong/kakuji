@@ -13,6 +13,8 @@ function App() {
         <Route path="/kakuji/kanji" element={<Kanji />} />
         <Route path="/kakuji/hiragana" element={<Hiragana />} />
         <Route path="/kakuji/katakana" element={<Katakana />} />
+        <Route path="/kakuji/results" element={<Results />} />
+        <Route path="*" element={<Start />} />
       </Routes>
 
     </BrowserRouter>
