@@ -27,7 +27,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Check out  repository under $GITHUB_WORKSPACE, so your job can access it
+      # Check out repository
       - name: Checkout Repo
         uses: actions/checkout@v4
 
