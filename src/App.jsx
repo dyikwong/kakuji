@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import AppNavbar from './components/AppNavbar';
 import Kanji from './Kanji'
 import Hiragana from './Hiragana'
 import Katakana from './Katakana'
