@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/AppNavbar';
 import Kanji from './Kanji';
 import Hiragana from './Hiragana';
 import Katakana from './Katakana';
