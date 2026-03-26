@@ -4,7 +4,7 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
+  # Triggers the workflow on push or pull request events
   push:
     branches:
       - 'canvas'
@@ -27,7 +27,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Check out  repository under $GITHUB_WORKSPACE, so your job can access it
+      # Check out repository
       - name: Checkout Repo
         uses: actions/checkout@v4
 
