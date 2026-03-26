@@ -10,6 +10,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <BrowserRouter>
+      <AppNavbar />
       <Routes>
         <Route path="/kakuji" element={<Start />} />
         <Route path="/kakuji/kanji" element={<Kanji />} />
