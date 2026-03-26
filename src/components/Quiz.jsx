@@ -65,17 +65,13 @@ function Quiz(props) {
 
 	// When the user submits a writing, add it to the list of submitted writings and generate a new character to write
 	const submitWriting = (newWriting) => {
-		console.log(quizList[listIndex][characterListIndex]['meaning'].join(', '))
-		var onyomiFormatted = quizList[listIndex][characterListIndex]['onyomi'].join('、　');
-		var kunyomiFormatted = quizList[listIndex][characterListIndex]['kunyomi'].join('、　');
-		var meaningFormatted = quizList[listIndex][characterListIndex]['meaning'].join(', ');
 
 		usedCharacters.current[countUsedCharacter.current] = {
 			level: quizListNames[listIndex],
 			character: quizList[listIndex][characterListIndex]['kanji'],
 			onyomi: quizList[listIndex][characterListIndex]['onyomi'].join('、　'),
 			kunyomi: quizList[listIndex][characterListIndex]['kunyomi'].join('、　'),
-			meaning: meaningFormatted
+			meaning: quizList[listIndex][characterListIndex]['meaning'].join(', ')
 		}
 		console.log(usedCharacters);
 		countUsedCharacter.current += 1;
@@ -100,7 +96,7 @@ function Quiz(props) {
 				<br />
 				<Canvas getWriting={submitWriting} />
 			</div>
-			<Link to="../results" state={{ submittedWriting: submittedWriting, usedCharacters: usedCharacters.current }}>
+			<Link to="../kakuji/results" state={{ submittedWriting: submittedWriting, usedCharacters: usedCharacters.current }}>
 				<button className="btn btn-secondary">See Results</button>
 			</Link>
 
