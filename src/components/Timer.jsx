@@ -11,12 +11,14 @@ function Timer(props) {
 			updateTimeRemaining(timeRemaining - 1);
 		}, 1000);
 
-		//return () => clearInterval(intervalID);
-		clearInterval(intervalID);
+		return () => clearInterval(intervalID);
 	}, [timeRemaining]);
 
+	let mins = String(Math.floor(timeRemaining / 60)).padStart(2, '0');
+	let secs = String(timeRemaining - ((Math.floor(timeRemaining / 60) * 60))).padStart(2, '0');
+
 	return (
-		<h1 style={{ float: "right" }}> {Math.floor(timeRemaining / 60)}: {timeRemaining - ((Math.floor(timeRemaining / 60) * 60))}</h1 >
+		<h1 style={{ float: "right" }}> {mins}:{secs}</h1 >
 	)
 
 }

@@ -73,11 +73,21 @@ function Canvas(props) {
 			e.preventDefault();
 			isDrawing = false;
 		});
+		window.addEventListener('keydown', function (event) {
+		if (event.key == ' ') {
+			console.log('space key pressed');
+			var submit = document.getElementById('submit-button');
+			submit.click();
+			event.preventDefault();
+		}
+
+	});
 	})
 
 	const styling = {
 		border: '2px solid black'
 	}
+
 
 	return (
 		<div>
