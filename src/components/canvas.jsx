@@ -54,14 +54,11 @@ function Canvas(props) {
 
 		canvas.addEventListener('mousemove', draw);
 
-		canvas.addEventListener('mouseleave', (e) => {
-			isDrawing = false;
-		})
-
 		canvas.addEventListener('touchstart', (e) => {
 			e.preventDefault();
 			isDrawing = true;
 			ctx.beginPath();
+			ctx.moveTo(e.touches[0].clientX - canvas.offsetLeft, e.touches[0].clientY - canvas.offsetTop);
 		})
 
 		canvas.addEventListener('touchmove', (e) => {
@@ -74,14 +71,14 @@ function Canvas(props) {
 			isDrawing = false;
 		});
 		window.addEventListener('keydown', function (event) {
-		if (event.key == ' ') {
-			console.log('space key pressed');
-			var submit = document.getElementById('submit-button');
-			submit.click();
-			event.preventDefault();
-		}
+			if (event.key == ' ') {
+				console.log('space key pressed');
+				var submit = document.getElementById('submit-button');
+				submit.click();
+				event.preventDefault();
+			}
 
-	});
+		});
 	})
 
 	const styling = {
