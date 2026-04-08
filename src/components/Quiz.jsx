@@ -81,13 +81,26 @@ function Quiz(props) {
 
 	}
 
+	const checkTimeRemaining = (value) => {
+		console.log(value);
+		if (value == 0) {
+			alert("Time's up!");
+			//navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
+			return (
+				<div>
+					<h1 style={{ textAlign: "center" }}>Time's up!</h1>
+				</div>
+			)
+		}
+	};
+
 	// Render the quiz component with the current character to write and the list of submitted writings
 	return (
 		<div>
 			<Link to="../kakuji">
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
-			<Timer time={timer} />
+			<Timer currentTime={timer} checkTimeRemaining={checkTimeRemaining} />
 			<div className='quiz-div'>
 				<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi'].join('、')}</h2>
 				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi'].join('、')}</h2>

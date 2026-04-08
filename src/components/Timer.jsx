@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
-function Timer(props) {
-	const [timeRemaining, updateTimeRemaining] = useState(props.time * 60);
+function Timer({currentTime, checkTimeRemaining}) {
+	const [timeRemaining, updateTimeRemaining] = useState(currentTime * 60);
 
 	useEffect(() => {
 		if (timeRemaining == 0)
@@ -9,6 +9,7 @@ function Timer(props) {
 
 		const intervalID = setInterval(() => {
 			updateTimeRemaining(timeRemaining - 1);
+			checkTimeRemaining(timeRemaining - 1);
 		}, 1000);
 
 		return () => clearInterval(intervalID);
