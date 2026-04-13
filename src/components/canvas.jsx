@@ -63,7 +63,9 @@ function Canvas(props) {
 
 		canvas.addEventListener('touchmove', (e) => {
 			e.preventDefault();
-			draw();
+			//draw();
+			ctx.lineTo(e.touches[0].clientX - canvas.offsetLeft, e.touches[0].clientY - canvas.offsetTop);
+			ctx.stroke();
 		})
 
 		canvas.addEventListener('touchend', (e) => {
