@@ -85,7 +85,7 @@ function Quiz(props) {
 		console.log(value);
 		if (value == 0) {
 			alert("Time's up!");
-			//navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
+			navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
 			return (
 				<div>
 					<h1 style={{ textAlign: "center" }}>Time's up!</h1>
