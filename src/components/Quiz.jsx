@@ -101,6 +101,8 @@ function Quiz(props) {
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
 			<Timer currentTime={timer} checkTimeRemaining={checkTimeRemaining} />
+			<br />
+			<br />
 			<div className='quiz-div'>
 				<h2>onyomi: {quizList[listIndex][characterListIndex]['onyomi'].join('、')}</h2>
 				<h2>kunyomi: {quizList[listIndex][characterListIndex]['kunyomi'].join('、')}</h2>
