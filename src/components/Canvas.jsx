@@ -58,12 +58,12 @@ function Canvas(props) {
 			e.preventDefault();
 			isDrawing = true;
 			ctx.beginPath();
-			ctx.moveTo(e.touches[0].clientX - canvas.offsetLeft, e.touches[0].clientY - canvas.offsetTop);
+			ctx.moveTo(e.touches[0].clientX - canvas.getBoundingClientRect().left, e.touches[0].clientY - canvas.getBoundingClientRect().top);
 		})
 
 		canvas.addEventListener('touchmove', (e) => {
 			e.preventDefault();
-			ctx.lineTo(e.touches[0].clientX - canvas.offsetLeft, e.touches[0].clientY - canvas.offsetTop);
+			ctx.lineTo(e.touches[0].clientX - canvas.getBoundingClientRect().left, e.touches[0].clientY - canvas.getBoundingClientRect().top);
 			ctx.stroke();
 		})
 
