@@ -9,7 +9,6 @@ import Start from './components/Start';
 function Home() {
 	return (
 		<div>
-			<AppNavbar />
 			<h1>Kakuji</h1>
 			<p>Welcome!</p>
 		</div>

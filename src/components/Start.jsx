@@ -63,6 +63,29 @@ function Start() {
 
 	*/
 
+	/* <h3>Canvas Size:</h3>
+				<div>
+					<div className="form-check">
+						<label >
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasSmall" />
+							Small
+						</label>
+					</div>
+					<div className="form-check">
+						<label>
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasMedium" />
+							Medium
+						</label>
+					</div>
+					<div className="form-check">
+						<label>
+							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" />
+							Large
+						</label>
+					</div>
+				</div>
+				*/
+
 	return (
 		<div className="start-container">
 			<div className="inside-start-container">
@@ -89,26 +112,6 @@ function Start() {
 					<input type="range" className="form-range" defaultValue={timeLimit} min="0.5" max="5" step="0.5" id="time-length" onChange={handleTimeChange} />
 				</div>
 				<br />
-				<div>
-					<div className="form-check">
-						<label >
-							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasSmall" />
-							Small
-						</label>
-					</div>
-					<div className="form-check">
-						<label>
-							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasMedium" />
-							Medium
-						</label>
-					</div>
-					<div className="form-check">
-						<label>
-							<input className="form-check-input" type="radio" name="flexRadioDefault" id="canvasLarge" />
-							Large
-						</label>
-					</div>
-				</div>
 				<br />
 				<div className="options-buttons">
 					<button type="button" className="btn btn-secondary" id="reset-button" onClick={resetOptions}>Reset</button>
