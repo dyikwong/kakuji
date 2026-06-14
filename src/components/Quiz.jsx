@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import Canvas from './Canvas';
 import Timer from './Timer';
 import { Link, useLocation } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 
 import n5Data from '../data/kanji-n5.json';
 import n4Data from '../data/kanji-n4.json';
@@ -13,7 +14,8 @@ import './Quiz.css';
 
 function Quiz(props) {
 	const checkedList = props.content;
-	const timer = props.time;
+	const startTime = props.time;
+	const navigate = useNavigate();
 
 	var quizList = [];
 	var quizListNames = [];
@@ -81,17 +83,10 @@ function Quiz(props) {
 
 	}
 
-	const checkTimeRemaining = (value) => {
-		console.log(value);
-		if (value == 0) {
-			alert("Time's up!");
-			navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
-			return (
-				<div>
-					<h1 style={{ textAlign: "center" }}>Time's up!</h1>
-				</div>
-			)
-		}
+	function timerEnd() {
+		alert("Time's up!");
+		navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
+
 	};
 
 	// Render the quiz component with the current character to write and the list of submitted writings
@@ -100,7 +95,7 @@ function Quiz(props) {
 			<Link to="../kakuji">
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
-			<Timer currentTime={timer} checkTimeRemaining={checkTimeRemaining} />
+			<Timer currentTime={startTime} timerEnd={timerEnd} />
 			<br />
 			<br />
 			<div className='quiz-div'>

@@ -1,15 +1,16 @@
 import { useEffect, useState } from 'react';
 
-function Timer({currentTime, checkTimeRemaining}) {
+function Timer({ currentTime, timerEnd }) {
 	const [timeRemaining, updateTimeRemaining] = useState(currentTime * 60);
 
 	useEffect(() => {
-		if (timeRemaining == 0)
+		if (timeRemaining == 0) {
+			timerEnd();
 			return;
+		}
 
 		const intervalID = setInterval(() => {
 			updateTimeRemaining(timeRemaining - 1);
-			checkTimeRemaining(timeRemaining - 1);
 		}, 1000);
 
 		return () => clearInterval(intervalID);
