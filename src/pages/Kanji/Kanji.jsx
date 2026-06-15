@@ -1,6 +1,6 @@
 import React from 'react'
-import AppNavbar from './components/AppNavbar'
-import Quiz from './components/Quiz'
+import AppNavbar from '../../components/AppNavbar'
+import Quiz from '../../components/Quiz'
 import { useLocation } from 'react-router-dom';
 
 function Kanji() {

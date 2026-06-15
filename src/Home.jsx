@@ -1,8 +1,8 @@
 import React from "react";
 import AppNavbar from './components/AppNavbar';
-import Kanji from './Kanji'
-import Hiragana from './Hiragana'
-import Katakana from './Katakana'
+import Kanji from './pages/Kanji/Kanji'
+import Hiragana from './pages/Hiragana/Hiragana'
+import Katakana from './pages/Katakana/Katakana'
 import Results from './components/Results';
 import Start from './components/Start';
 
