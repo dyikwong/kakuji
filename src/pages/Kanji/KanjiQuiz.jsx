@@ -11,10 +11,10 @@ import n3Data from '../../data/kanji-n3.json';
 import n2Data from '../../data/kanji-n2.json';
 import n1Data from '../../data/kanji-n1.json';
 
-import './Quiz.css';
+//import './KanjiQuiz.css';
 
 // Quiz component - takes props of list of checked boxes and specified time limit
-function Quiz(props) {
+function KanjiQuiz(props) {
 	const checkedList = props.content;
 	const startTime = props.time;
 	const navigate = useNavigate();
@@ -116,4 +116,4 @@ function Quiz(props) {
 	)
 }
 
-export default Quiz;
+export default KanjiQuiz;

@@ -50,7 +50,7 @@ function KanjiStart() {
 			return;
 		}
 		console.log(checkBoxes);
-		nav('/kakuji/kanji', { state: { time: timeLimit, checked: checkBoxes } });
+		nav('/kakuji/kanji/quiz', { state: { time: timeLimit, checked: checkBoxes } });
 	}
 
 	const [canvasSize, setCanvasSize] = useState(1); // pass this variable to child

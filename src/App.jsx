@@ -7,6 +7,8 @@ import Results from './components/Results';
 import Start from './components/Start';
 import Home from './Home';
 import KanjiStart from './pages/Kanji/KanjiStart';
+import HiraganaStart from './pages/Hiragana/HiraganaStart';
+import KanjiQuiz from './pages/Kanji/KanjiQuiz';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -16,7 +18,8 @@ function App() {
       <Routes>
         <Route path="/kakuji" element={<Home />} />
         <Route path="/kakuji/kanji" element={<KanjiStart />} />
-        <Route path="/kakuji/hiragana" element={<Hiragana />} />
+        <Route path="/kakuji/kanji/quiz" element={<KanjiQuiz />} />
+        <Route path="/kakuji/hiragana" element={<HiraganaStart />} />
         <Route path="/kakuji/katakana" element={<Katakana />} />
         <Route path="/kakuji/results" element={<Results />} />
         <Route path="*" element={<Home />} />
