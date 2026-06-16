@@ -1,6 +1,6 @@
 import React from 'react'
 import AppNavbar from '../../components/AppNavbar'
-import Quiz from '../../components/Quiz'
+import KanjiQuiz from './KanjiQuiz'
 import { useLocation } from 'react-router-dom';
 
 function Kanji() {
@@ -9,7 +9,7 @@ function Kanji() {
 	return (
 		<div>
 			<h1 style={{ textAlign: "center" }}>Kanji</h1>
-			<Quiz time={time} content={checked} />
+			<KanjiQuiz time={time} content={checked} />
 		</div>
 	);
 }

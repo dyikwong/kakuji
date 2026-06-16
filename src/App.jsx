@@ -1,14 +1,15 @@
 import { useState } from 'react'
 import AppNavbar from './components/AppNavbar';
 import Kanji from './pages/Kanji/Kanji'
+import KanjiStart from './pages/Kanji/KanjiStart';
+import KanjiQuiz from './pages/Kanji/KanjiQuiz';
+
 import Hiragana from './pages/Hiragana/Hiragana'
+import HiraganaStart from './pages/Hiragana/HiraganaStart';
 import Katakana from './pages/Katakana/Katakana'
 import Results from './components/Results';
 import Start from './components/Start';
 import Home from './Home';
-import KanjiStart from './pages/Kanji/KanjiStart';
-import HiraganaStart from './pages/Hiragana/HiraganaStart';
-import KanjiQuiz from './pages/Kanji/KanjiQuiz';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {

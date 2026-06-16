@@ -28,7 +28,7 @@ function KanjiQuiz(props) {
 		return (
 			<div>
 				<h1 style={{ textAlign: "center" }}>No levels selected</h1>
-				<Link to="../">
+				<Link to="../kakuji/kanji">
 					<button className="btn btn-secondary">Go back</button>
 				</Link>
 			</div>
@@ -94,7 +94,7 @@ function KanjiQuiz(props) {
 	// Render the quiz component with the current character to write and the list of submitted writings
 	return (
 		<div>
-			<Link to="../kakuji">
+			<Link to="../kakuji/kanji">
 				<button className="btn btn-secondary">Quit</button>
 			</Link>
 			<Timer currentTime={startTime} timerEnd={timerEnd} />
