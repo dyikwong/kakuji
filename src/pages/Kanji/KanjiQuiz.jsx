@@ -4,6 +4,7 @@ import Timer from '../../components/Timer';
 import { Link, useLocation } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 
+// Import the kanji data for each JLPT level
 import n5Data from '../../data/kanji-n5.json';
 import n4Data from '../../data/kanji-n4.json';
 import n3Data from '../../data/kanji-n3.json';
@@ -12,6 +13,7 @@ import n1Data from '../../data/kanji-n1.json';
 
 import './Quiz.css';
 
+// Quiz component - takes props of list of checked boxes and specified time limit
 function Quiz(props) {
 	const checkedList = props.content;
 	const startTime = props.time;
@@ -21,6 +23,7 @@ function Quiz(props) {
 	var quizListNames = [];
 	var usedIndexes = {};
 
+	// If no levels are selected, display message and button to go back to Start component
 	if (checkedList == null) {
 		return (
 			<div>
@@ -54,8 +57,6 @@ function Quiz(props) {
 		}
 	}
 
-	console.log(quizList)
-
 	// State for the list of submitted writings and the current index of the quiz list
 	const [submittedWriting, setSubmittedWriting] = useState([]);
 	const [listIndex, setListIndex] = useState(Math.floor(Math.random() * Object.keys(quizList).length));
@@ -83,6 +84,7 @@ function Quiz(props) {
 
 	}
 
+	// When the timer ends, navigate to the Results component and pass the list of submitted writings and used characters as state
 	function timerEnd() {
 		alert("Time's up!");
 		navigate('/kakuji/results', { state: { submittedWriting: submittedWriting, usedCharacters: usedCharacters.current } });
